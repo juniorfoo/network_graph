@@ -1,0 +1,14 @@
+[
+  {
+    "type": "1000BaseX (GBIC) Supervisor Module",
+    "model": "WS-X4014"
+  },
+  {
+    "type": "10/100/1000BaseTX (RJ45) ",
+    "model": "WS-X4424-GB-RJ45"
+  },
+  {
+    "type": "10/100BaseTX (RJ45)",
+    "model": "WS-X4148"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "model": "N5K-M1600",
+    "ports": 6,
+    "port_speed": "10GE",
+    "type": "Ethernet Module"
+  },
+  {
+    "model": "N2K-C2148T-1GE",
+    "ports": 48,
+    "port_speed": "1GE",
+    "type": "Fabric Extender 48x1GE Module"
+  }
+]
