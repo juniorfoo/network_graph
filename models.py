@@ -1,12 +1,8 @@
 from datetime import datetime
 
 import pytz
-from neomodel import BooleanProperty, DateTimeProperty, IntegerProperty, Relationship, StructuredRel
-from neomodel import RelationshipFrom
-from neomodel import RelationshipTo
-from neomodel import StringProperty
-from neomodel import StructuredNode
-from neomodel import UniqueIdProperty
+from neomodel import BooleanProperty, DateTimeProperty, IntegerProperty, JSONProperty, Relationship, RelationshipFrom, \
+    RelationshipTo, StringProperty, StructuredNode, StructuredRel, UniqueIdProperty
 
 
 ##
@@ -20,6 +16,7 @@ class IpMixin(object):
 
 
 class PluggableMixin(object):
+    uid = UniqueIdProperty()
     position = IntegerProperty(required=True)
     type = StringProperty()
     model = StringProperty()
@@ -38,9 +35,6 @@ class BackboneRelationship(StructuredRel):
 ##
 ## Nodes
 ##
-
-# We are in end user land, not data center land.
-# Router -> Switch -> NetworkModule -> InterfaceCard -> Interface -> Device -> Segment
 
 class NetworkingDevice(StructuredNode, IpMixin):
     __abstract_node__ = True
@@ -186,6 +180,7 @@ class PrinterDevice(Device):
     # Methods
     # None
 
+
 class VoIPDevice(Device):
     # Properties
     user_name = StringProperty()
@@ -234,8 +229,8 @@ class Software(StructuredNode):
 
 class Port(StructuredNode):
     # Properties
-    name = StringProperty(unique_index=True)
-    purpose = StringProperty()
+    number = IntegerProperty(unique_index=True)
+    details = JSONProperty()
 
     # Relationships
     device = RelationshipFrom('Device', 'USES_PORT')

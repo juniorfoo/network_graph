@@ -1,0 +1,14 @@
+amqp==2.2.2
+billiard==3.5.0.3
+celery==4.1.0
+Faker==0.8.14
+kombu==4.1.0
+neo4j-driver==1.5.2
+neomodel==3.2.8
+python-dateutil==2.7.3
+pytz==2018.4
+redis==2.10.6
+six==1.11.0
+text-unidecode==1.2
+vine==1.1.4
+git+https://github.com/gorakhargosh/watchdog.git
