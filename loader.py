@@ -7,38 +7,57 @@ from typing import Dict, List, Type
 from faker import Faker
 from neomodel import config
 
-from models import Device, EndUserDevice, Interface, InterfaceCard, NetworkModule, Port, Router, Segment, Switch, \
-    UnknownDevice, Vulnerability
+from models import Device, EndUserDevice, Group, Interface, InterfaceCard, NetworkModule, Person, Port, PrinterDevice, \
+    Router, Segment, Software, Switch, UnknownDevice, VoIPDevice, Vulnerability
 
 domain = '3wiresys.com'
 
-## There will be a constant number of these
-# num_vulnerabilities = 5
-# num_segments = 2
-# num_routers = 5  # Must be >= 2
-# num_switches = 10
-#
-# # All of these are per parent but are a random number between 0 and value provided
-# num_nms = 3
-# num_ics = 3
-# num_interfaces = 96
-
-## There will be a constant number of these
+# There will be a constant number of these
+num_groups = 100
+num_people = 500
 num_vulnerabilities = 5
-num_segments = 1
-num_routers = 2  # Must be >= 2
-num_switches = 2
+num_segments = 2
+num_routers = 5  # Must be >= 2
+num_switches = 10
 
 # All of these are per parent but are a random number between 0 and value provided
-num_nms = 1
-num_ics = 1
-num_interfaces = 4
+num_nms = 3
+num_ics = 3
+num_interfaces = 96
+max_software = 20
 
-functions = ['Laptop', 'Printer', 'Server', 'VoIP']
+# num_groups = 5
+# num_people = 5
+# num_vulnerabilities = 5
+# num_segments = 1
+# num_routers = 2  # Must be >= 2
+# num_switches = 2
+# num_nms = 1
+# num_ics = 1
+# num_interfaces = 4
+# max_software = 3
+
+functions = ['Laptop', 'Printer', 'VoIP']
 interface_speeds = ['10/100/1000-TX', '10/100BaseTX']
-ports = ['49666/TCP', '445/TCP', '135/TCP', '139/TCP', '22/TCP']
-vendors = ['Cisco']
 
+ports = ['49666/TCP', '445/TCP', '135/TCP', '139/TCP', '22/TCP']
+
+laptop_avs = ['AVG', 'McAfee', 'Norton']
+with open('laptop_models.json') as f:
+    laptops = json.load(f)
+with open('laptop_os.json') as f:
+    laptop_os = json.load(f)
+
+with open('nic_vendors.json') as f:
+    nic_vendors = json.load(f)
+
+with open('printers.json') as f:
+    printers = json.load(f)
+
+with open('software_small.json') as f:
+    softwares = json.load(f)
+
+switch_vendors = ['Cisco']
 with open('switch_models.json') as f:
     switch_models = json.load(f)
 with open('switch_versions.json') as f:
@@ -48,12 +67,36 @@ with open('switch_network_modules.json') as f:
 with open('switch_interface_cards.json') as f:
     switch_interface_cards = json.load(f)
 
+with open('voip_models.json') as f:
+    voips = json.load(f)
 
-# match (device:Device{function:'VoIP'})<-[*]-(switch) return switch
-# match (:Device{ip: '10.172.120.141'})<-[*]-(switch) return switch
-# match (:Device{ip: '10.172.120.141'})<-[*]-(switch:Switch) return switch
-# match (:Device{ip: '10.172.120.141'})<-[:UPLINK]-(interface)<-[:CONTAINS]-(subslot)<-[:CONTAINS]-(slot)<-[:CONTAINS]-(switch) return switch
+
+#
+# Find all switches that VoIP device hanging off of them
+# match (device:VoIPDevice)-[*]->(switch:Switch) return switch
+
+#
+# Find the switch that has ip `192.168.9.74` hanging off of it
+# match (:Device{ip: '192.168.9.74'})-[*]->(switch:Switch) return switch
+
+#
+# Find the path from the device with ip `192.168.9.74` to its Switch
+# match path = (:Device{ip: '192.168.9.74'})-[*]->(:Switch) return path
+
+#
+# Find devices that were reported by X but NOT y
+# match path = (:Device{reported_x: true, reported_y: false})-[*]->(s:Switch) return path
+
+#
+# Find the first Sotware that is installed on more than one Device
+# MATCH (s:Software)-[r:INSTALLED]->(d) WITH s, count(r) as rel_cnt WHERE rel_cnt > 5 RETURN s limit 1;
+
+#
+# Delete all items in the database
 # MATCH (n) DETACH DELETE n
+
+# match (:Device{ip: '10.172.120.141'})<-[:UPLINK]-(interface)<-[:CONTAINS]-(subslot)<-[:CONTAINS]-(slot)
+# <-[:CONTAINS]-(switch) return switch
 
 
 class Loader:
@@ -63,32 +106,53 @@ class Loader:
         self.hostnames = set()
 
         self.devices: List[Device] = []
+        self.groups: List[Group] = []
         self.interface_cards: List[InterfaceCard] = []
         self.network_modules: List[NetworkModule] = []
         self.interfaces: List[Interface] = []
+        self.people: List[Person] = []
         self.ports: List[Port] = []
         self.routers: List[Router] = []
         self.segments: List[Segment] = []
+        self.software: List[Software] = []
         self.switches: List[Switch] = []
         self.vulnerabilities: List[Vulnerability] = []
 
     def load(self):
+        # UPSERT a set of groups that Person's can be part of
+        self.__gen_groups()
+
+        # UPSERT a set of Persons that Devices can associate to
+        self.__gen_people()
+
+        # UPSERT a set of ports that Devices can have open (i.e., 22/TCP)
         self.__gen_ports()
 
+        # UPSERT a set of vulnerabilities that Devices can have open
         self.__gen_vulnerabilities()
 
+        # UPSERT a set of software that Devices can have installed
+        self.__gen_software()
+
+        # UPSERT a set of segments that Devices can be part of
         self.__gen_segments()
 
+        # UPSERT the routers that we are going to be dealing with
         self.__gen_routers()
 
+        # UPSERT the switches that we are going to be dealing with
         self.__gen_switches()
 
+        # Generate the network modules within the switches (if they don't exist already)
         self.__gen_network_modules()
 
+        # Generate the interface cards within the network modules (if they don't exist already)
         self.__gen_interface_cards()
 
+        # Generate the interfaces within the interface cards (if they don't exist already)
         self.__gen_interfaces()
 
+        # Generate the devices (if they don't exist already)
         self.__gen_devices()
 
     def __gen_devices(self) -> None:
@@ -103,23 +167,25 @@ class Loader:
                 print('\tUsing existing Device for %s:%d\%d\%d' % (sw_hostname, nm_position, ic_position, pt_position))
             else:
                 print('\tCreating new Device for %s:%d\%d\%d' % (sw_hostname, nm_position, ic_position, pt_position))
-                function = self.faker.word(ext_word_list=functions)
-                # functions = ['Laptop', 'Printer', 'Server', 'Unknown', 'VoIP']
-                if function == 'Laptop':
+                func = self.faker.word(ext_word_list=functions)
+                if func == 'Laptop':
                     self.devices.append(self.__gen_device_laptop(interface))
+                elif func == 'Printer':
+                    self.devices.append(self.__gen_device_printer(interface))
+                elif func == 'VoIP':
+                    self.devices.append(self.__gen_device_voip(interface))
                 else:
-                    self.devices.append(self.__gen_device_generic(interface, function))
+                    self.devices.append(self.__gen_device_generic(interface, func))
         print('DEVICES Finished')
 
-    def __gen_device_base(self, interface: Interface, device_class: Type[Device], device_data: Dict) -> Device:
-        base_data = {
-            'ip': self.__gen_ip(),
-            'mac_address': self.faker.mac_address(),
-            'hostname': self.__gen_hostname(),
-        }
+    def __gen_device_base(self, interface: Interface, device_class: Type[Device], device_data: Dict,
+                          base_data: Dict = None) -> Device:
+        if not base_data:
+            base_data = self.__gen_device_base_data()
+
         # noinspection PyTypeChecker
         device = device_class.create_or_update({**base_data, **device_data}, relationship=interface.devices)[0]
-        print('\t\tUpserted Device %s' % device.hostname)
+        print('\t\tUpserted Device %s - %s' % (device.function, device.hostname))
 
         # Give the device to any segment
         if not len(device.segment.all()):
@@ -132,31 +198,145 @@ class Loader:
             for i in range(0, 3):
                 device.open_ports.connect(choice(self.ports))
 
-        # Set a few open vulnerabilities
-        if not len(device.vulnerabilities.all()):
-            for i in range(0, 3):
-                device.vulnerabilities.connect(choice(self.vulnerabilities))
-
         return device
 
-    def __gen_device_generic(self, interface: Interface, function: str) -> Device:
-        device_data = {
-            'function': function
+    def __gen_device_base_data(self) -> Dict:
+        return {
+            'ip': self.__gen_ip(),
+            'mac_address': self.faker.mac_address(),
+            'hostname': self.__gen_hostname(),
+            'reported_x': self.faker.boolean(),
+            'reported_y': self.faker.boolean(),
+            'reported_z': self.faker.boolean(),
+            'hw_model': None,
+            'hw_vendor': None,
+            'linux_secure_connector': False,
+            'linux_ssh': False,
+            'mac_ssh': False,
+            'netbios_domain': None,
+            'netbios_hostname': None,
+            'network_function': None,
+            'nic_vendor': choice(nic_vendors),
+            'num_hosts_on_port': 0,
+            'os': None,
+            'os_fingerprint': None,
+            'win_av_installed': False,
+            'win_av_program': None,
+            'win_av_running': False,
+            'win_av_update_last': None,
+            'win_manageable_deployment_type': None,
+            'win_manageable_by_domain': False,
+            'win_manageable_secure': False,
+            'win_secure_systray': False,
+            'win_secure_version': None
         }
 
-        return self.__gen_device_base(interface, EndUserDevice, device_data)
-
-    def __gen_device_laptop(self, interface: Interface) -> Device:
+    def __gen_device_generic(self, interface: Interface, func: str) -> Device:
         device_data = {
-            'user_name': self.faker.user_name(),
-            'function': 'Laptop'
+            'function': func
         }
 
         return self.__gen_device_base(interface, UnknownDevice, device_data)
 
+    def __gen_device_laptop(self, interface: Interface) -> Device:
+        laptop_vendor = choice(list(laptops.keys()))
+        laptop_model = choice(laptops[laptop_vendor])
+
+        base_data = self.__gen_device_base_data()
+        hostname_parts = base_data['hostname'].split('.')
+
+        av_installed = self.faker.boolean()
+        laptop_data = {
+            'user_name': self.faker.user_name(),
+            'function': 'Laptop',
+            'hw_model': laptop_model,
+            'hw_vendor': laptop_vendor,
+            'netbios_domain': hostname_parts[1],
+            'netbios_hostname': hostname_parts[0],
+            'network_function': 'Windows Machine',
+            'num_hosts_on_port': 1,
+            'os': 'Windows',
+            'os_fingerprint': choice(laptop_os),
+            'win_av_installed': av_installed,
+            'win_av_program': choice(laptop_avs) if av_installed else None,
+            'win_av_running': self.faker.boolean(),
+            'win_av_update_last': self.faker.past_datetime() if av_installed else None,
+            'win_manageable_deployment_type': 'Permanent As Service ',
+            'win_manageable_by_domain': True,
+            'win_manageable_secure': True,
+            'win_secure_systray': True,
+            'win_secure_version': '10.7.01.0046 (x64)'
+        }
+
+        laptop: EndUserDevice = self.__gen_device_base(interface, EndUserDevice, laptop_data, base_data)
+
+        # Set a few open vulnerabilities
+        if not len(laptop.vulnerabilities.all()):
+            for i in range(0, randint(0, 3)):
+                vulnerability = choice(self.vulnerabilities)
+                laptop.vulnerabilities.connect(vulnerability)
+                print('\t\tConnected vulnerability -> %s' % vulnerability.name)
+
+        # Set a few software associations
+        if not len(laptop.software.all()):
+            for i in range(0, randint(0, max_software)):
+                software = choice(self.software)
+                laptop.software.connect(software)
+                print('\t\tConnected software -> %s' % software.name)
+
+        # Assign to a user
+        if not len(laptop.user.all()):
+            if len(self.people):
+                person = self.people.pop()
+                laptop.user.connect(person)
+                print('\t\tConnected person -> %s' % person.name_display)
+            else:
+                print('\t\tNo connected person (exhausted list)')
+
+        return laptop
+
+    def __gen_device_printer(self, interface: Interface) -> Device:
+        printer_vendor = choice(list(printers.keys()))
+        printer_model = choice(printers[printer_vendor])
+
+        base_data = self.__gen_device_base_data()
+
+        printer_data = {
+            'hw_model': printer_model,
+            'hw_vendor': printer_vendor,
+            'network_function': 'Printer',
+        }
+
+        return self.__gen_device_base(interface, PrinterDevice, printer_data, base_data)
+
+    def __gen_device_voip(self, interface: Interface) -> Device:
+        voip_vendor = choice(list(voips.keys()))
+        voip_model = choice(voips[voip_vendor])
+
+        base_data = self.__gen_device_base_data()
+
+        voip_data = {
+            'hw_model': voip_model,
+            'hw_vendor': voip_vendor,
+            'network_function': 'VoIP',
+        }
+
+        return self.__gen_device_base(interface, VoIPDevice, voip_data, base_data)
+
+    def __gen_groups(self) -> None:
+        print('\n\nGROUPS Starting')
+
+        for i in range(1, num_groups + 1):
+            # noinspection PyTypeChecker
+            group = Group.create_or_update({'name': 'group_%s' % i})[0]
+            self.groups.append(group)
+            print('\t%s: Upserted' % group.name)
+
+        print('GROUPS Finished')
+
     def __gen_hostname(self) -> str:
         while True:
-            hostname = '%s.3wiresys.com' % uuid.uuid4().hex[:10].upper()
+            hostname = '%s.%s.3wiresys.com' % (uuid.uuid4().hex[:10].upper(), self.faker.domain_word())
             if hostname not in self.hostnames:
                 self.hostnames.add(hostname)
                 return hostname
@@ -233,6 +413,39 @@ class Loader:
                     self.network_modules.append(nm)
         print('NETWORK MODULES Finished')
 
+    def __gen_people(self) -> None:
+        print('\n\nPEOPLE Starting')
+
+        for i in range(1, num_people + 1):
+            name = self.faker.name()
+            data = {
+                'user_name': self.faker.user_name(),
+                'account_disabled': self.faker.boolean(),
+                'account_expired': self.faker.boolean(),
+                'company': self.faker.company(),
+                'department': self.faker.word(),
+                'email': self.faker.email(),
+                'name_display': name,
+                'name_family': name.split(' ')[1],
+                'name_given': name.split(' ')[0],
+                'password_last_set': self.faker.past_datetime(),
+                'phone': self.faker.phone_number(),
+                'title': self.faker.job(),
+            }
+            # noinspection PyTypeChecker
+            person = Person.create_or_update(data)[0]
+            self.people.append(person)
+            print('\t%s: Upserted' % person.name_display)
+
+            # Set a few groups
+            if not len(person.groups.all()):
+                for j in range(0, randint(0, 10)):
+                    group = choice(self.groups)
+                    person.groups.connect(group)
+                    print('\t\tConnected group -> %s' % group.name)
+
+        print('PEOPLE Finished')
+
     def __gen_ports(self) -> None:
         print('\n\nPORTS Starting')
         for port in ports:
@@ -267,16 +480,26 @@ class Loader:
         print('\n\nSEGMENTS Starting')
         for segment_i in range(1, num_segments + 1):
             # noinspection PyTypeChecker
-            segment = Segment.create_or_update({'name': 'segment%s' % segment_i})[0]
+            segment = Segment.create_or_update({'name': 'segment_%s' % segment_i})[0]
             self.segments.append(segment)
             print('\t%s: Upserted' % segment.name)
         print('SEGMENTS Finished')
+
+    def __gen_software(self) -> None:
+        print('\n\nSOFTWARE Starting')
+        for software_name in softwares.keys():
+            data = {'name': software_name, 'version': softwares[software_name]['version']}
+            # noinspection PyTypeChecker
+            sware = Software.create_or_update(data)[0]
+            self.software.append(sware)
+            print('\t%s: Upserted' % sware.name)
+        print('SOFTWARE Finished')
 
     def __gen_switches(self):
         print('\n\nSWITCHES Starting')
         for switch_i in range(1, num_switches + 1):
             hostname = 'edge%d.%s' % (switch_i, domain)
-            vendor = self.faker.word(ext_word_list=vendors)
+            vendor = self.faker.word(ext_word_list=switch_vendors)
             model = self.faker.word(ext_word_list=switch_models)
 
             switch_properties = {

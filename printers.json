@@ -1,0 +1,104 @@
+{
+  "Brother": [
+    "DCP-8065DN USB Printer",
+    "Laser Leg Type1 Class Driver",
+    "MFC-L2740DW series",
+    "QL-500",
+    "QL-570"
+  ],
+  "Canon": [
+    "Inkjet MG6100 series",
+    "Inkjet Type4 Class Driver",
+    "MX920 series FAX",
+    "MX920 series Printer",
+    "Pro9000"
+  ],
+  "Dell": [
+    "5330dn Mono Laser Printer",
+    "5330dn Mono Laser Printer PCL6"
+  ],
+  "DYMO": [
+    "LabelWriter 330 Turbo-USB",
+    "LabelWriter 400",
+    "LabelWriter 400 Turbo",
+    "LabelWriter 450",
+    "LabelWriter 450 DUO Label",
+    "LabelWriter 450 DUO Tape",
+    "LabelWriter 450 Turbo",
+    "LabelWriter 450 Twin Turbo",
+    "LabelWriter 4XL",
+    "LabelWriter DUO Label",
+    "LabelWriter DUO Tape 128"
+  ],
+  "Epson": [
+    "ESC/P-R V4 Class Driver",
+    "Stylus Pro 4800",
+    "Stylus Pro 4880",
+    "Stylus Pro 4900",
+    "XP-830 Series"
+  ],
+  "HP": [
+    "Color LaserJet 2605 PCL6 Class Driver",
+    "Color LaserJet 3000 PCL6 Class Driver",
+    "Color LaserJet 4700 PCL6 Class Driver",
+    "Color LaserJet A3/11x17 PCL6 Class Driver",
+    "Color LaserJet CM2320 MFP PCL6 Class Driver",
+    "Color LaserJet CP1215",
+    "Color LaserJet CP1215 Class Driver",
+    "Color LaserJet CP1510 Series PCL6 Class Driver",
+    "Color LaserJet CP202X PCL6 Class Driver",
+    "Color LaserJet CP3525 PCL6 Class Driver",
+    "Color LaserJet CP4025/4525 PCL6 Class Driver",
+    "Color LaserJet CP4520 Series PCL6",
+    "Color LaserJet CP6015 PCL6 Class Driver",
+    "Color LaserJet M553 PCL 6",
+    "LaserJet 1020",
+    "LaserJet 1022 Class Driver",
+    "LaserJet 200 color M251 PCL 6",
+    "LaserJet 4200/4300 PCL6 Class Driver",
+    "LaserJet 5200 PCL6 Class Driver",
+    "LaserJet Enterprise 500 Color M551 PCL6 Class Driver",
+    "LaserJet M605 PCL 6",
+    "LaserJet P2015 PCL6 Class Driver",
+    "LaserJet P2035 Class Driver",
+    "LaserJet P205X series PCL6 Class Driver",
+    "LaserJet P3004/P3005 PCL6 Class Driver",
+    "LaserJet P3010 Series",
+    "LaserJet P3011/P3015 PCL6 Class Driver",
+    "LaserJet P4014/P4015 PCL6 Class Driver",
+    "LaserJet Professional P1606dn",
+    "LJ300-400 color M351-M451 PCL 6",
+    "LJ300-400 color M351-M451 PCL6 Class Driver",
+    "Officejet 4500 G510n-z Class Driver",
+    "Officejet 6500 E709a Series",
+    "Officejet 6500 E709n Series",
+    "Officejet Pro 8100 Class Driver",
+    "Officejet Pro 8500 A909a Series Class Driver",
+    "Officejet Pro 8600",
+    "Officejet Pro 8600 Class Driver",
+    "OfficeJet Pro 8720 PCL-3",
+    "PCL3 A-size Printer Class Driver",
+    "Photosmart C309a series Class Driver"
+  ],
+  "Lexmark": [
+    "C736 Class Driver",
+    "C740 Series Class Driver",
+    "Color XPS Class Driver",
+    "CS310 Series Class Driver",
+    "CS725 Series PS3",
+    "CX725 Series PS3",
+    "E462dtn Class Driver",
+    "T644 Class Driver",
+    "T650 Class Driver",
+    "T654 Class Driver",
+    "X543 Class Driver"
+  ],
+  "Smart": [
+    "Label Printer 200 & 420",
+    "Label Printer 450"
+  ],
+  "Xerox": [
+    "Phaser 3250 Class Driver",
+    "Phaser 6360 Series Class Driver"
+  ]
+}

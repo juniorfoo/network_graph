@@ -127,8 +127,8 @@ class Device(StructuredNode, IpMixin):
     # Properties
     function = StringProperty()
     reported_x = BooleanProperty(default=False)
-    reported_y = BooleanProperty()
-    reported_z = BooleanProperty()
+    reported_y = BooleanProperty(default=False)
+    reported_z = BooleanProperty(default=False)
 
     hw_model = StringProperty()
     hw_vendor = StringProperty()
@@ -141,20 +141,20 @@ class Device(StructuredNode, IpMixin):
     nic_vendor = StringProperty()
     num_hosts_on_port = IntegerProperty()
     os = StringProperty()
-    os_class = StringProperty()
     os_fingerprint = StringProperty()
-    win_av_installed = StringProperty()
-    win_av_running = StringProperty()
+    win_av_installed = BooleanProperty()
+    win_av_program = StringProperty()
+    win_av_running = BooleanProperty()
     win_av_update_last = DateTimeProperty()
     win_manageable_deployment_type = StringProperty()
-    win_manageable_domain = BooleanProperty()
+    win_manageable_by_domain = BooleanProperty()
     win_manageable_secure = BooleanProperty()
-    win_secure_systray = StringProperty()
+    win_secure_systray = BooleanProperty()
     win_secure_version = StringProperty()
 
     # Relationships
     interface = RelationshipTo('Interface', 'PHYSICAL_UPLINK')
-    open_ports = RelationshipTo('Port', 'PORT_USAGE')
+    open_ports = RelationshipTo('Port', 'USES_PORT')
     segment = RelationshipTo('Segment', 'SEGMENT')
     vulnerabilities = RelationshipTo('Vulnerability', 'HAS_VULNERABILITY')
     user = RelationshipFrom('Person', 'USES')
@@ -167,7 +167,29 @@ class EndUserDevice(Device):
     # Properties
     user_name = StringProperty()
     function = StringProperty(default='End-User')
-    testx = StringProperty(default='XX')
+
+    # Relationships
+    software = RelationshipFrom('Software', 'INSTALLED')
+
+    # Methods
+    # None
+
+
+class PrinterDevice(Device):
+    # Properties
+    user_name = StringProperty()
+    function = StringProperty(default='Printer')
+
+    # Relationships
+    # None
+
+    # Methods
+    # None
+
+class VoIPDevice(Device):
+    # Properties
+    user_name = StringProperty()
+    function = StringProperty(default='VoIP')
 
     # Relationships
     # None
@@ -198,13 +220,25 @@ class Segment(StructuredNode):
     # None
 
 
+class Software(StructuredNode):
+    # Properties
+    name = StringProperty(unique_index=True)
+    version = StringProperty()
+
+    # Relationships
+    device = RelationshipTo('EndUserDevice', 'INSTALLED')
+
+    # Methods
+    # None
+
+
 class Port(StructuredNode):
     # Properties
     name = StringProperty(unique_index=True)
     purpose = StringProperty()
 
     # Relationships
-    device = RelationshipFrom('Device', 'PORT_USAGE')
+    device = RelationshipFrom('Device', 'USES_PORT')
 
     # Methods
     # None
@@ -223,7 +257,7 @@ class Vulnerability(StructuredNode):
 
 class Group(StructuredNode):
     # Properties
-    name = StringProperty()
+    name = StringProperty(unique_index=True)
 
     # Relationships
     members = RelationshipFrom('Group', 'MEMBER_OF')
@@ -234,6 +268,7 @@ class Group(StructuredNode):
 
 class Person(StructuredNode):
     # Properties
+    user_name = UniqueIdProperty()
     account_disabled = BooleanProperty()
     account_expired = BooleanProperty()
     company = StringProperty()

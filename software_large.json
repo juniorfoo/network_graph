@@ -1,0 +1,3830 @@
+{
+  "1Q-9(M)A-2-DB-1 LiveContent": {
+    "version": "1.08.0000"
+  },
+  "64 Bit HP CIO Components Installer": {
+    "version": "2.2.4"
+  },
+  "6500_E709_eDocs": {
+    "version": "1.00.0000"
+  },
+  "7-Zip  (x64)": {
+    "version": 16.04
+  },
+  "7-Zip 16.04": {
+    "version": 16.04
+  },
+  "7-Zip 16.04 (x64)": {
+    "version": 16.04
+  },
+  "7-Zip 18.03 (x64 edition)": {
+    "version": "18.03.00.0"
+  },
+  "ABBYY FineReader for ScanSnap (TM) 4.1": {
+    "version": "8.02.650.72520"
+  },
+  "ABBYY FineReader for ScanSnap (TM) 5.0": {
+    "version": "11.0.234"
+  },
+  "ACA & MEP 2016 Object Enabler": {
+    "version": "7.8.44.0"
+  },
+  "ACCM": {
+    "version": "3.0.5.4"
+  },
+  "ACP Application": {
+    "version": "2.15.30.0019"
+  },
+  "ACS Remote Connect - Win7": {
+    "version": "2.00.0000"
+  },
+  "ActivClient CAC x64": {
+    "version": 6.2
+  },
+  "ActivClient CAC x86": {
+    "version": 6.2
+  },
+  "ActivClient x64": {
+    "version": "7.0.2"
+  },
+  "Active Directory Authentication Library for SQL Server": {
+    "version": "13.1.4001.0"
+  },
+  "Active Directory Rights Management Services Client 2.1": {
+    "version": "1.0.3356.1108"
+  },
+  "ActivID ActivClient x64": {
+    "version": "7.1.0"
+  },
+  "AD LDS Instance AREA52": {
+    "version": ""
+  },
+  "AD LDS Instance instance1": {
+    "version": ""
+  },
+  "AD LDS Instance instance2": {
+    "version": ""
+  },
+  "ADIS": {
+    "version": "1.9.7.6"
+  },
+  "ADIS 1.9": {
+    "version": "1.9.7.6"
+  },
+  "Adobe Acrobat DC": {
+    "version": "15.006.30279"
+  },
+  "Adobe Acrobat DC (2015)": {
+    "version": "15.006.30417"
+  },
+  "Adobe Acrobat XI Pro": {
+    "version": 11
+  },
+  "Adobe After Effects CC": {
+    "version": 12.1
+  },
+  "Adobe AIR": {
+    "version": "28.0.0.127"
+  },
+  "Adobe Audition CC": {
+    "version": 6
+  },
+  "Adobe Bridge CC (64 Bit)": {
+    "version": 6
+  },
+  "Adobe Dreamweaver CC": {
+    "version": 13
+  },
+  "Adobe Edge Animate CC": {
+    "version": "2.0.1"
+  },
+  "Adobe Exchange Panel": {
+    "version": 1
+  },
+  "Adobe ExtendScript Toolkit CC": {
+    "version": "4.0.0.0"
+  },
+  "Adobe Extension Manager CC": {
+    "version": "7.3.2"
+  },
+  "Adobe Fireworks CS6": {
+    "version": "12.0.1"
+  },
+  "Adobe Flash Builder  (64 Bit)": {
+    "version": 4.7
+  },
+  "Adobe Flash Player 25 NPAPI": {
+    "version": "25.0.0.127"
+  },
+  "Adobe Flash Player 26 ActiveX": {
+    "version": "26.0.0.137"
+  },
+  "Adobe Flash Player 26 NPAPI": {
+    "version": "26.0.0.151"
+  },
+  "Adobe Flash Player 26 PPAPI": {
+    "version": "26.0.0.137"
+  },
+  "Adobe Flash Player 27 NPAPI": {
+    "version": "27.0.0.183"
+  },
+  "Adobe Flash Player 28 NPAPI": {
+    "version": "28.0.0.137"
+  },
+  "Adobe Flash Player 28 PPAPI": {
+    "version": "28.0.0.137"
+  },
+  "Adobe Flash Player 29 NPAPI": {
+    "version": "29.0.0.113"
+  },
+  "Adobe Flash Player 29 PPAPI": {
+    "version": "29.0.0.113"
+  },
+  "Adobe Flash Professional CC": {
+    "version": 13
+  },
+  "Adobe Illustrator CC": {
+    "version": 17
+  },
+  "Adobe Illustrator CC 2015": {
+    "version": "19.2.1"
+  },
+  "Adobe InCopy CC": {
+    "version": 9
+  },
+  "Adobe InCopy CC 2015": {
+    "version": "11.0.1.105"
+  },
+  "Adobe InDesign CC": {
+    "version": 9
+  },
+  "Adobe InDesign CC 2015": {
+    "version": "11.3.0.034"
+  },
+  "Adobe Lightroom": {
+    "version": "6.5.1"
+  },
+  "Adobe LiveCycle Designer ES4": {
+    "version": 11
+  },
+  "Adobe Muse": {
+    "version": 7
+  },
+  "Adobe PDF iFilter 11 for 64-bit platforms": {
+    "version": "11.0.00"
+  },
+  "Adobe Photoshop CC 2015": {
+    "version": 16
+  },
+  "Adobe Photoshop CC 2015 (32 Bit)": {
+    "version": "16.1.2"
+  },
+  "Adobe Prelude CC": {
+    "version": 2.1
+  },
+  "Adobe Premiere Pro CC": {
+    "version": 7.1
+  },
+  "Adobe Reader X ()": {
+    "version": "10.1.2"
+  },
+  "Adobe Reader XI ()": {
+    "version": "11.0.06"
+  },
+  "Adobe Refresh Manager": {
+    "version": "1.8.0"
+  },
+  "Adobe Shockwave Player 12.2": {
+    "version": "12.2.8.198"
+  },
+  "Adobe Shockwave Player 12.3": {
+    "version": "12.3.1.201"
+  },
+  "Adobe SpeedGrade CC": {
+    "version": 7.1
+  },
+  "Adobe SVG Viewer": {
+    "version": 3
+  },
+  "AGFA IMPAX Client": {
+    "version": "6.3.1.7004"
+  },
+  "AHLTA": {
+    "version": "3.8.0.316 Release 49.07"
+  },
+  "AHLTA 3.3.8": {
+    "version": "3.8.0.316"
+  },
+  "AHLTA 3.3.8 CF 10.1 HAIMS 2.18.5 MEDCIN 4th Quarter 2016 R1 (16 Nov 2016)": {
+    "version": "3.8.0.316"
+  },
+  "AHLTA 3.3.8 CF 9.1 HAIMS 2.18.5  MEDCIN 4th Quarter 2016 R1 (16 Nov 2016).": {
+    "version": "3.8.0.316"
+  },
+  "Alcor Micro Smart Card Reader Driver": {
+    "version": "1.7.44.0"
+  },
+  "AMD Accelerated Video Transcoding": {
+    "version": "13.30.100.40612"
+  },
+  "AMD Catalyst Control Center": {
+    "version": "2014.0612.1049.17486"
+  },
+  "AMD Catalyst Install Manager": {
+    "version": "8.0.915.0"
+  },
+  "AMD Drag and Drop Transcoding": {
+    "version": "2.00.0000"
+  },
+  "AMD FirePro Control Center": {
+    "version": "2017.0130.1123.20418"
+  },
+  "AMD FirePro Settings": {
+    "version": "2016.0916.1515.27418"
+  },
+  "AMD Fuel": {
+    "version": "2014.0612.1049.17486"
+  },
+  "AMD Install Manager": {
+    "version": "9.0.000.4"
+  },
+  "AMD Problem Report Wizard": {
+    "version": "8.0.916.0"
+  },
+  "AMD Quick Stream": {
+    "version": "4.0.0.0"
+  },
+  "AMD Radeon Pro and AMD FirePro Settings": {
+    "version": "2017.0413.1040.19176"
+  },
+  "AMD Radeon Settings": {
+    "version": "2017.0904.1217.20281"
+  },
+  "AMD Settings": {
+    "version": "2017.0413.1040.19176"
+  },
+  "AMD Settings - Branding": {
+    "version": "1.00.0000"
+  },
+  "AMD Software": {
+    "version": "9.0.000.8"
+  },
+  "AMD Start Now": {
+    "version": "2016.0916.1515.27418"
+  },
+  "AMD Steady Video Plug-In": {
+    "version": "2.07.0000"
+  },
+  "AppFabric 1.1 for Windows Server": {
+    "version": "1.1.2106.32"
+  },
+  "Apple Application Support (32-bit)": {
+    "version": 5.5
+  },
+  "Apple Application Support (64-bit)": {
+    "version": 5.5
+  },
+  "Application Verifier x64 External Package": {
+    "version": "10.1.16299.15"
+  },
+  "Ar-Photoshop-2015-Jul-64": {
+    "version": "1.0.0"
+  },
+  "Arbortext IsoView 7.0": {
+    "version": "7.0.40.07"
+  },
+  "ArcGIS 10.1 Engine": {
+    "version": "10.1.3035"
+  },
+  "ArcGIS 10.3.1 Data Reviewer for Desktop": {
+    "version": "10.3.4530"
+  },
+  "ArcGIS 10.3.1 for Desktop": {
+    "version": "10.3.4959"
+  },
+  "ArcGIS 10.3.1 for Desktop Feature Service Sync Performance Patch": {
+    "version": ""
+  },
+  "ArcGIS 10.3.1 for Desktop Feature Service Sync Performance Patch B": {
+    "version": ""
+  },
+  "ArcGIS 10.3.1 for Desktop Geocoding General Maintenance Patch": {
+    "version": ""
+  },
+  "ArcGIS 10.3.1 for Desktop Georeferencing CAD Data Patch": {
+    "version": ""
+  },
+  "ArcGIS 10.3.1 for Desktop Licensed File Geodatabase Patch": {
+    "version": ""
+  },
+  "ArcGIS 10.3.1 for Desktop Parcel Fabric General Maintenance Update Patch": {
+    "version": ""
+  },
+  "ArcGIS 10.3.1 for Desktop Raster Type Cumulative Patch": {
+    "version": ""
+  },
+  "ArcGIS 10.3.1 for Desktop Raster Type Cumulative Patch B": {
+    "version": ""
+  },
+  "ArcGIS 10.3.1 for Desktop WMTS Tiles Misalignment Patch": {
+    "version": ""
+  },
+  "ArcGIS 10.4.1 for Desktop": {
+    "version": "10.4.5686"
+  },
+  "ARM\\WDC": {
+    "version": "3.0.5\\1.1.4"
+  },
+  "Asmedia USB Host Controller Driver": {
+    "version": "1.16.43.1"
+  },
+  "ASUS Product Register Program": {
+    "version": "1.0.030"
+  },
+  "AtHocACC": {
+    "version": "6.2.10.263"
+  },
+  "AtHocUSAF": {
+    "version": "6.2.27.271"
+  },
+  "Atmel TouchScreen Power Management": {
+    "version": "1.7.0.7"
+  },
+  "Attachmate Reflection CHCS Companion with Public Keys": {
+    "version": "14.0.000"
+  },
+  "Attachmate Reflection for UNIX and OpenVMS 14.1": {
+    "version": "14.1.0133"
+  },
+  "Audio Controls Application": {
+    "version": "3.0.54.4"
+  },
+  "AutoCAD 2015 - English": {
+    "version": "20.0.51.0"
+  },
+  "AutoCAD 2015 Language Pack - English": {
+    "version": "20.0.51.0"
+  },
+  "AutoCAD 2016": {
+    "version": "20.1.49.0"
+  },
+  "AutoCAD 2016 Language Pack - English": {
+    "version": "20.1.49.0"
+  },
+  "AutoCAD Architecture 2016 Language Shared - English": {
+    "version": "7.8.44.0"
+  },
+  "AutoCAD Architecture 2016 Shared": {
+    "version": "7.8.44.0"
+  },
+  "AutoCAD Civil 3D Matterhorn Private Pack": {
+    "version": "10.5.604.0"
+  },
+  "Autodesk 360": {
+    "version": "5.0.27.1100"
+  },
+  "Autodesk App Manager": {
+    "version": "1.2.0"
+  },
+  "Autodesk App Manager 2016": {
+    "version": "2.0.0"
+  },
+  "Autodesk Application Manager": {
+    "version": "4.0.69.0"
+  },
+  "Autodesk AutoCAD 2015 - English": {
+    "version": "20.0.51.0"
+  },
+  "Autodesk AutoCAD Civil 3D 2016": {
+    "version": "10.5.604.0"
+  },
+  "Autodesk AutoCAD Civil 3D 2016 - English": {
+    "version": "10.5.604.0"
+  },
+  "Autodesk AutoCAD Civil 3D 2016 32 Bit Object Enabler on Autodesk Storm and Sanitary Analysis 2016 - Language Neutral": {
+    "version": 604
+  },
+  "Autodesk AutoCAD Civil 3D 2016 Language Pack - English": {
+    "version": "10.5.604.0"
+  },
+  "Autodesk AutoCAD Map 3D 2016": {
+    "version": "19.0.020.16"
+  },
+  "Autodesk AutoCAD Map 3D 2016 Language Pack - English": {
+    "version": "19.0.020.16"
+  },
+  "Autodesk AutoCAD Performance Feedback Tool 1.2.4": {
+    "version": "1.2.4.0"
+  },
+  "Autodesk AutoCAD Performance Feedback Tool version 1.2.2": {
+    "version": "1.2.2.0"
+  },
+  "Autodesk BIM 360 Glue AutoCAD 2015 Add-in 64 bit": {
+    "version": "3.32.3004"
+  },
+  "Autodesk BIM 360 Glue AutoCAD 2016 Add-in 64 bit": {
+    "version": "4.35.1742"
+  },
+  "Autodesk Content Service": {
+    "version": "3.2.0.0"
+  },
+  "Autodesk Content Service Language Pack": {
+    "version": "3.2.0.0"
+  },
+  "Autodesk Design Review 2013": {
+    "version": "13.0.0.82"
+  },
+  "Autodesk Featured Apps": {
+    "version": "1.2.0"
+  },
+  "Autodesk Featured Apps 2016": {
+    "version": "2.0.0"
+  },
+  "Autodesk Material Library 2015": {
+    "version": "5.2.9.100"
+  },
+  "Autodesk Material Library 2016": {
+    "version": "6.3.0.15"
+  },
+  "Autodesk Material Library Base Resolution Image Library 2015": {
+    "version": "5.2.9.100"
+  },
+  "Autodesk Material Library Base Resolution Image Library 2016": {
+    "version": "6.3.0.15"
+  },
+  "Autodesk Network License Manager": {
+    "version": "11.12.0"
+  },
+  "Autodesk ReCap": {
+    "version": "1.3.1.39"
+  },
+  "Autodesk Storm and Sanitary Analysis 2016": {
+    "version": "10.1.53"
+  },
+  "Autodesk Storm and Sanitary Analysis 2016 x64 Plug-in": {
+    "version": "10.1.53"
+  },
+  "Autodesk Subassembly Composer on Autodesk AutoCAD Civil 3D 2016 - English - English (United States)": {
+    "version": 604
+  },
+  "Avanade.Crm.Tasker.OutlookAddin": {
+    "version": "1.10.5.0"
+  },
+  "Avery Design & Print": {
+    "version": "4.0.1"
+  },
+  "AWBS (Automated Weight and Balance System)": {
+    "version": "10.2.011"
+  },
+  "AWBS F-22 Automated Form F (USAF)": {
+    "version": "3.5.6193.20483"
+  },
+  "AX88179_AX88178A Windows 8.x Drivers": {
+    "version": "3.0.0.0"
+  },
+  "Axway Desktop Validator": {
+    "version": "4.12.0.2.0"
+  },
+  "Bang & Olufsen Audio": {
+    "version": "9.0.69.53"
+  },
+  "BCWipe 3.0": {
+    "version": ""
+  },
+  "BestCrypt 9.0": {
+    "version": "9.03.8"
+  },
+  "BIG-IP Edge Client Components": {
+    "version": "70.2013.0523.0032"
+  },
+  "Blancco File Eraser": {
+    "version": 8.2
+  },
+  "Blancco File Eraser - Home Edition": {
+    "version": 8.2
+  },
+  "Bonjour": {
+    "version": "3.0.0.10"
+  },
+  "bpd_scan": {
+    "version": "3.00.0000"
+  },
+  "BPDSoftware": {
+    "version": "140.0.001.000"
+  },
+  "BPDSoftware_Ini": {
+    "version": "1.00.0000"
+  },
+  "Broadcom NetXtreme-I Netlink Driver and Management Installer": {
+    "version": "16.6.1.6"
+  },
+  "Brother MFL-Pro Suite ADS-1000W": {
+    "version": "1.0.4.0"
+  },
+  "Brother MFL-Pro Suite DCP-8065DN": {
+    "version": "1.0.0.0"
+  },
+  "Brother MFL-Pro Suite MFC-L2740DW series": {
+    "version": "1.0.2.0"
+  },
+  "Browser for SQL Server 2017": {
+    "version": "14.0.1000.169"
+  },
+  "BufferChm": {
+    "version": "140.0.298.000"
+  },
+  "C2+ Viewer": {
+    "version": "5.2.11050"
+  },
+  "Camtasia Studio 8": {
+    "version": "8.6.0.2079"
+  },
+  "Canon CanoScan LiDE 110 User Registration": {
+    "version": ""
+  },
+  "Canon DR-2050C Scanner Driver": {
+    "version": "2.3.10610.3001"
+  },
+  "Canon driver for DR-C225 (x64)": {
+    "version": "1.0.6099"
+  },
+  "Canon MP Navigator EX 4.0": {
+    "version": ""
+  },
+  "Canon Solution Menu EX": {
+    "version": ""
+  },
+  "CanoScan LiDE 110 Scanner Driver": {
+    "version": ""
+  },
+  "CaptureOnTouch plug-in for Application": {
+    "version": "1.4.5897"
+  },
+  "CaptureOnTouch plug-in for Dropbox": {
+    "version": "1.2.5913"
+  },
+  "CaptureOnTouch plug-in for eCopy Pro Office 6": {
+    "version": "1.2.5897"
+  },
+  "CaptureOnTouch plug-in for Evernote": {
+    "version": "2.19.5913"
+  },
+  "CaptureOnTouch plug-in for Google Drive": {
+    "version": "2.3.5913"
+  },
+  "CaptureOnTouch plug-in for Mail": {
+    "version": "1.2.5914"
+  },
+  "CaptureOnTouch plug-in for Microsoft OneDrive": {
+    "version": "1.3.5913"
+  },
+  "CaptureOnTouch plug-in for Microsoft SharePoint": {
+    "version": "2.3.5898"
+  },
+  "CaptureOnTouch plug-in for OmniPage": {
+    "version": "1.2.5914"
+  },
+  "CaptureOnTouch plug-in for PaperPort 14": {
+    "version": "1.2.5897"
+  },
+  "CaptureOnTouch plug-in for Presto! BizCard 6": {
+    "version": "1.3.5896"
+  },
+  "CaptureOnTouch plug-in for Printer": {
+    "version": "1.1.5914"
+  },
+  "CaptureOnTouch plug-in for SugarSync": {
+    "version": "1.3.5913"
+  },
+  "CardMinder": {
+    "version": "V5.1L21"
+  },
+  "CardMinder V3.2": {
+    "version": "3.2.10.1"
+  },
+  "CardMinder V4.1": {
+    "version": "4.1.40.1"
+  },
+  "CardMinder V5.0": {
+    "version": "5.0.10.1"
+  },
+  "CardMinder V5.1": {
+    "version": "5.1.21.1"
+  },
+  "Catalyst Control Center - Branding": {
+    "version": "1.00.0000"
+  },
+  "Catalyst Control Center Graphics Previews Common": {
+    "version": "2017.0130.1123.20418"
+  },
+  "Catalyst Control Center InstallProxy": {
+    "version": "2015.1104.1643.30033"
+  },
+  "Catalyst Control Center Localization All": {
+    "version": "2015.0804.21.41908"
+  },
+  "Catalyst Control Center Next Localization BR": {
+    "version": "2017.0904.1217.20281"
+  },
+  "Catalyst Control Center Next Localization CHS": {
+    "version": "2017.0904.1217.20281"
+  },
+  "Catalyst Control Center Next Localization CHT": {
+    "version": "2017.0904.1217.20281"
+  },
+  "Catalyst Control Center Next Localization CS": {
+    "version": "2017.0904.1217.20281"
+  },
+  "Catalyst Control Center Next Localization DA": {
+    "version": "2017.0904.1217.20281"
+  },
+  "Catalyst Control Center Next Localization DE": {
+    "version": "2017.0904.1217.20281"
+  },
+  "Catalyst Control Center Next Localization EL": {
+    "version": "2017.0904.1217.20281"
+  },
+  "Catalyst Control Center Next Localization ES": {
+    "version": "2017.0904.1217.20281"
+  },
+  "Catalyst Control Center Next Localization FI": {
+    "version": "2017.0904.1217.20281"
+  },
+  "Catalyst Control Center Next Localization FR": {
+    "version": "2017.0904.1217.20281"
+  },
+  "Catalyst Control Center Next Localization HU": {
+    "version": "2017.0904.1217.20281"
+  },
+  "Catalyst Control Center Next Localization IT": {
+    "version": "2017.0904.1217.20281"
+  },
+  "Catalyst Control Center Next Localization JA": {
+    "version": "2017.0904.1217.20281"
+  },
+  "Catalyst Control Center Next Localization KO": {
+    "version": "2017.0904.1217.20281"
+  },
+  "Catalyst Control Center Next Localization NL": {
+    "version": "2017.0413.1040.19176"
+  },
+  "Catalyst Control Center Next Localization NO": {
+    "version": "2017.0413.1040.19176"
+  },
+  "Catalyst Control Center Next Localization PL": {
+    "version": "2017.0904.1217.20281"
+  },
+  "Catalyst Control Center Next Localization RU": {
+    "version": "2017.0904.1217.20281"
+  },
+  "Catalyst Control Center Next Localization SV": {
+    "version": "2017.0904.1217.20281"
+  },
+  "Catalyst Control Center Next Localization TH": {
+    "version": "2017.0904.1217.20281"
+  },
+  "Catalyst Control Center Next Localization TR": {
+    "version": "2017.0904.1217.20281"
+  },
+  "CCC Help Chinese Standard": {
+    "version": "2015.1104.2210.39859"
+  },
+  "CCC Help Chinese Traditional": {
+    "version": "2015.1104.1642.30033"
+  },
+  "CCC Help Czech": {
+    "version": "2015.1104.2210.39859"
+  },
+  "CCC Help Danish": {
+    "version": "2015.1104.2210.39859"
+  },
+  "CCC Help Dutch": {
+    "version": "2014.0612.1048.17486"
+  },
+  "CCC Help English": {
+    "version": "2013.1206.1602.28764"
+  },
+  "CCC Help Finnish": {
+    "version": "2014.0612.1048.17486"
+  },
+  "CCC Help French": {
+    "version": "2013.1206.1602.28764"
+  },
+  "CCC Help German": {
+    "version": "2017.0130.1122.20418"
+  },
+  "CCC Help Greek": {
+    "version": "2014.0612.1048.17486"
+  },
+  "CCC Help Hungarian": {
+    "version": "2017.0130.1122.20418"
+  },
+  "CCC Help Italian": {
+    "version": "2015.1104.1642.30033"
+  },
+  "CCC Help Japanese": {
+    "version": "2014.0612.1048.17486"
+  },
+  "CCC Help Korean": {
+    "version": "2017.0130.1122.20418"
+  },
+  "CCC Help Norwegian": {
+    "version": "2015.1104.2210.39859"
+  },
+  "CCC Help Polish": {
+    "version": "2014.0612.1048.17486"
+  },
+  "CCC Help Portuguese": {
+    "version": "2014.0612.1048.17486"
+  },
+  "CCC Help Russian": {
+    "version": "2015.0622.2136.37044"
+  },
+  "CCC Help Spanish": {
+    "version": "2015.0622.2136.37044"
+  },
+  "CCC Help Swedish": {
+    "version": "2017.0130.1122.20418"
+  },
+  "CCC Help Thai": {
+    "version": "2015.0622.2136.37044"
+  },
+  "CCC Help Turkish": {
+    "version": "2015.0804.0020.41908"
+  },
+  "ccc-utility": {
+    "version": "2014.0612.1049.17486"
+  },
+  "ccc-utility64": {
+    "version": "2015.1104.1643.30033"
+  },
+  "CDC GOLD 6.0": {
+    "version": "6.0.105"
+  },
+  "CDR USB Remote HS Driver": {
+    "version": "4.5.0.126"
+  },
+  "CDS": {
+    "version": "1.0.7"
+  },
+  "Cisco AnyConnect Secure Mobility Client": {
+    "version": "4.4.03034"
+  },
+  "Cisco IP Communicator": {
+    "version": "8.6.6.0"
+  },
+  "Cisco Jabber": {
+    "version": "11.9.3.60004"
+  },
+  "Cisco WebEx Meetings": {
+    "version": ""
+  },
+  "Citrix Authentication Manager": {
+    "version": "8.0.0.23483"
+  },
+  "Citrix Receiver": {
+    "version": "14.4.0.8014"
+  },
+  "Citrix Receiver (for AVHE)": {
+    "version": "14.2.0.10"
+  },
+  "Citrix Receiver (HDX Flash Redirection)": {
+    "version": "14.4.0.8014"
+  },
+  "Citrix Receiver 4.10": {
+    "version": "14.10.1.22"
+  },
+  "Citrix Receiver 4.11": {
+    "version": "14.11.0.17061"
+  },
+  "Citrix Receiver 4.6": {
+    "version": "14.6.0.12010"
+  },
+  "Citrix Receiver 4.7": {
+    "version": "14.7.0.13011"
+  },
+  "Citrix Receiver 4.8": {
+    "version": "14.8.0.1010"
+  },
+  "Citrix Receiver 4.9": {
+    "version": "14.9.0.2539"
+  },
+  "Citrix Receiver Inside": {
+    "version": "4.8.0.65534"
+  },
+  "Citrix Receiver Updater": {
+    "version": "4.2.0.32521"
+  },
+  "Citrix Receiver(Aero)": {
+    "version": "14.8.0.1010"
+  },
+  "Citrix Receiver(DV)": {
+    "version": "14.2.100.14"
+  },
+  "Citrix Receiver(SSON)": {
+    "version": "14.10.1.22"
+  },
+  "Citrix Receiver(USB)": {
+    "version": "14.10.1.22"
+  },
+  "Citrix Web Helper": {
+    "version": "4.9.0.2528"
+  },
+  "ClickOnce Bootstrapper Package for Microsoft .NET Framework": {
+    "version": "4.7.02558"
+  },
+  "Client Files": {
+    "version": 10.1
+  },
+  "CMOSWeb": {
+    "version": "7.8.0.3"
+  },
+  "CommVault CommCell Console (Instance001)": {
+    "version": "10.0.0"
+  },
+  "Conexant HD Audio": {
+    "version": "8.65.186.3"
+  },
+  "Conexant ISST Audio": {
+    "version": "9.0.139.1"
+  },
+  "Configuration Manager Client": {
+    "version": "4.00.6487.2000"
+  },
+  "Connection Monitor 3": {
+    "version": "3.0.58"
+  },
+  "Core Graphics Software": {
+    "version": "5.3.60.6579"
+  },
+  "Cortona2D Viewer": {
+    "version": "1.0.35"
+  },
+  "Cortona3D Viewer": {
+    "version": "7.0.188"
+  },
+  "CounterACT": {
+    "version": "1.0.0.0"
+  },
+  "CPR": {
+    "version": "2.2.2.3"
+  },
+  "CPR_2225": {
+    "version": "2.2.2.5"
+  },
+  "Crystal Reports": {
+    "version": "13.0.5.891 Release 49.07"
+  },
+  "Customer Support": {
+    "version": "1.0.0.0"
+  },
+  "CyberLink YouCam": {
+    "version": "4.2.1.5628"
+  },
+  "DameWare Mini Remote Control Service": {
+    "version": "12.0.3.0"
+  },
+  "DameWare Mini Remote Control x64": {
+    "version": "12.0.5007.4"
+  },
+  "DameWare Mini Remote Control x64 #1": {
+    "version": "12.0.5007.4"
+  },
+  "DameWare Remote Support": {
+    "version": "11.2.91.0"
+  },
+  "DameWare Remote Support 10.0": {
+    "version": "10.0.0.372"
+  },
+  "Dare County": {
+    "version": "2.4.5"
+  },
+  "Datawatch Monarch 13": {
+    "version": "13.5.0.6554"
+  },
+  "DBsign Web Signer": {
+    "version": 3
+  },
+  "DCO XMPP Desktop Client (remove only)": {
+    "version": ""
+  },
+  "DDSTimeNet version 2.1 from Digital Display System": {
+    "version": ""
+  },
+  "Dell IO Management G3": {
+    "version": "4.3.1.839"
+  },
+  "Destinations": {
+    "version": "140.0.253.000"
+  },
+  "DeviceDiscovery": {
+    "version": "140.0.298.000"
+  },
+  "DeviceTool": {
+    "version": "3.8.2"
+  },
+  "DiagnosticsHub_CollectionService": {
+    "version": "15.0.27128"
+  },
+  "Digital Signature Enforcement Tool": {
+    "version": "1.6.8.0"
+  },
+  "DisplayLink Core Software": {
+    "version": "8.2.1646.0"
+  },
+  "DisplayLink Graphics": {
+    "version": "8.2.1685.0"
+  },
+  "DisplayLink Graphics Driver": {
+    "version": "8.3.1908.0"
+  },
+  "DMLSS": {
+    "version": "None Release 49.03"
+  },
+  "DocProc": {
+    "version": "140.0.185.000"
+  },
+  "DoD Secure Host Baseline": {
+    "version": "10.1.1"
+  },
+  "DoD Secure Host Baseline Server": {
+    "version": 2016.1703
+  },
+  "Dolby Digital Plus Home Theater": {
+    "version": "7.6.3.1"
+  },
+  "Dolphin Imaging": {
+    "version": "11.8.17"
+  },
+  "Dolphin Imaging 11.8": {
+    "version": "11.8.17"
+  },
+  "Dolphin Update Service": {
+    "version": "1.8.5197.24424"
+  },
+  "Dot4": {
+    "version": "1.0.0.0"
+  },
+  "DR-C225 CaptureOnTouch": {
+    "version": 3.6
+  },
+  "DR-C225 UserManual": {
+    "version": "1.05.0000"
+  },
+  "Drawbase 6.6": {
+    "version": ""
+  },
+  "Driver UI Enhancement": {
+    "version": "1.2.0.0"
+  },
+  "DSETCheck": {
+    "version": "1.6.8"
+  },
+  "DTSConfig": {
+    "version": "52.0.0.0"
+  },
+  "DYMO Label": {
+    "version": "8.6.710.0"
+  },
+  "DYMO Label v.8": {
+    "version": "8.3.0.1242"
+  },
+  "e-SignLive XHTML Signature Module 1.6.6": {
+    "version": "1.66.5.1005"
+  },
+  "EFI Flexera License Manager (remove only)": {
+    "version": "11.11.1.3"
+  },
+  "Entity Framework 6.1.3 Tools  for Visual Studio 15": {
+    "version": "6.1.60104.0"
+  },
+  "Epson Event Manager": {
+    "version": "3.10.0042"
+  },
+  "Epson FAX Utility": {
+    "version": "1.53.00"
+  },
+  "Epson PC-FAX Driver": {
+    "version": ""
+  },
+  "EPSON SC-P600 Series Printer Uninstall": {
+    "version": ""
+  },
+  "EPSON Scan": {
+    "version": ""
+  },
+  "Epson Stylus Pro 4900 Printer Uninstall": {
+    "version": ""
+  },
+  "EPSON WorkForce 545 Series Printer Uninstall": {
+    "version": ""
+  },
+  "EPSON XP-830 Series Printer Uninstall": {
+    "version": ""
+  },
+  "EpsonNet Print": {
+    "version": "3.1.2.0"
+  },
+  "ERDAS Foundation 2015": {
+    "version": "15.00.0000.00028"
+  },
+  "ERDAS IMAGINE 2015": {
+    "version": "15.00.0000.00564"
+  },
+  "Error Recovery Guide for fi-7160/fi-7260/fi-7180/fi-7280": {
+    "version": "4.3.0.5"
+  },
+  "Essentris": {
+    "version": ""
+  },
+  "EU Waste Recycling Information": {
+    "version": "1.0.0.0"
+  },
+  "F5 Networks VPN Client for Windows": {
+    "version": "60.2009.1204.1613"
+  },
+  "Fax": {
+    "version": "140.0.307.000"
+  },
+  "fi Series manuals for fi-7160/7260/7180/7280": {
+    "version": "1.04.01"
+  },
+  "fi Series Online Update": {
+    "version": "1.2.3.2"
+  },
+  "Fiery User Software-": {
+    "version": "5.6.0.17"
+  },
+  "Fujitsu Registration": {
+    "version": "2.51.0013"
+  },
+  "FUJITSU Scanner USB HotFix": {
+    "version": "1.00.0000"
+  },
+  "Getac Utility": {
+    "version": "20.6.160419.8"
+  },
+  "GlassFish Server Open Source Edition 4.1.1": {
+    "version": ""
+  },
+  "Google Chrome": {
+    "version": "63.0.3239.132"
+  },
+  "Google Earth": {
+    "version": "7.1.8.3036"
+  },
+  "Google Earth Pro": {
+    "version": "7.1.7.2600"
+  },
+  "Google Update Helper": {
+    "version": "1.3.33.7"
+  },
+  "GoTo Opener": {
+    "version": "1.0.470"
+  },
+  "GPBaseService2": {
+    "version": "140.0.297.000"
+  },
+  "GR2Analyst version 2.60": {
+    "version": ""
+  },
+  "Grammarly for Microsoft® Office Suite": {
+    "version": "6.6.127"
+  },
+  "HAIMS Medical Image Viewer": {
+    "version": "2.0.33"
+  },
+  "Haims Viewer": {
+    "version": "2.18.5 Release 49.03"
+  },
+  "Herramientas de corrección de Microsoft Office 2016: español": {
+    "version": "16.0.4266.1001"
+  },
+  "HP 3D DriveGuard": {
+    "version": "6.0.28.1"
+  },
+  "HP BIOS Configuration Utility": {
+    "version": "4.0.23.1"
+  },
+  "HP Color LaserJet 3600 ()": {
+    "version": "02/27/2007 61.063.461.41"
+  },
+  "HP Color LaserJet Enterprise M553": {
+    "version": "14.0.16124.472"
+  },
+  "HP Connection Manager": {
+    "version": "4.8.10.1"
+  },
+  "HP Customer Participation Program 14.0": {
+    "version": 14
+  },
+  "HP Designjet Z6200 Photo Printer Series": {
+    "version": ""
+  },
+  "HP Display Assistant": {
+    "version": "2.11.045"
+  },
+  "HP Dock Audio": {
+    "version": "1.31.36.19"
+  },
+  "HP Dropbox Plugin": {
+    "version": "36.0.49.62779"
+  },
+  "HP Elite USB-C Docking Station Drivers": {
+    "version": 1.9
+  },
+  "HP Google Drive Plugin": {
+    "version": "36.0.49.62779"
+  },
+  "HP Hotkey Support": {
+    "version": "6.2.32.1"
+  },
+  "HP ICC Profiles_x64": {
+    "version": "2.0.0"
+  },
+  "HP Imaging Device Functions 14.0": {
+    "version": 14
+  },
+  "HP LaserJet Professional P1100-P1560-P1600 Series": {
+    "version": ""
+  },
+  "HP LJ300-400 color M351-M451": {
+    "version": "5.0.12200.630"
+  },
+  "HP OfficeJet 4650 series Basic Device Software": {
+    "version": "40.11.1122.1796"
+  },
+  "HP Officejet 6500 E709 Series": {
+    "version": 14
+  },
+  "HP Port Replicator Software Installer": {
+    "version": "1.2.20"
+  },
+  "HP Proactive Services": {
+    "version": "1.6.0.37"
+  },
+  "HP Product FWUpdater": {
+    "version": "4.0.0.6579"
+  },
+  "HP ScanJet Pro 3000 s3 Basic Device Software": {
+    "version": "41.1.2124.64538"
+  },
+  "HP SoftPaq Download Manager": {
+    "version": "3.4.6.0"
+  },
+  "HP Solution Center 14.0": {
+    "version": 14
+  },
+  "HP Unified IO": {
+    "version": "2.0.0.404"
+  },
+  "HP Universal Camera Driver": {
+    "version": "3.5.8.2"
+  },
+  "HP Update": {
+    "version": "5.003.003.001"
+  },
+  "HP USB Smart Card Keyboard": {
+    "version": 4.33
+  },
+  "HP Utility": {
+    "version": "1.14.1.9"
+  },
+  "HP Wireless Button Driver": {
+    "version": "1.1.14.1"
+  },
+  "hpbDSService": {
+    "version": "002.002.07399"
+  },
+  "hpbM351M451DSService": {
+    "version": "001.001.05164"
+  },
+  "HPCLJEnterpriseM553": {
+    "version": "1.00.0000"
+  },
+  "HPDXP": {
+    "version": "3.0.26.30"
+  },
+  "HPLaserJet300-400ColorM351-M451Series_HelpLearnCenter_SI": {
+    "version": "1.02.0000"
+  },
+  "HPLJDXPHelper": {
+    "version": "020.021.004"
+  },
+  "HPLJUTCore": {
+    "version": "004.005.0001"
+  },
+  "HPLJUTM351-M451": {
+    "version": "1.02.0013"
+  },
+  "hppLaserJetService": {
+    "version": "001.001.0.0"
+  },
+  "hppM351_M451LaserJetService": {
+    "version": "005.021.00132"
+  },
+  "hppP1100P1560P1600SeriesLaserJetService": {
+    "version": "001.001.0.0"
+  },
+  "HPProductAssistant": {
+    "version": "140.0.298.000"
+  },
+  "hppToolboxProxyM351": {
+    "version": "035.024.006"
+  },
+  "hppusgP1100P1560P1600Series": {
+    "version": "1.0.0.1"
+  },
+  "HPSSupply": {
+    "version": "2.1.1.0000"
+  },
+  "hpStatusAlerts": {
+    "version": "050.037.00142"
+  },
+  "hpStatusAlertsM351_M451": {
+    "version": "050.034.0131"
+  },
+  "HydraVision": {
+    "version": "4.2.252.0"
+  },
+  "HyperTerminal Private Edition v6.3": {
+    "version": ""
+  },
+  "IBM Cognos Series 7 version 5": {
+    "version": ""
+  },
+  "IBM Cognos Windows Common Logon Server": {
+    "version": ""
+  },
+  "IBM Forms Designer 4.0": {
+    "version": 4
+  },
+  "IBM Forms Viewer 4.0.0": {
+    "version": "8.0.0.0"
+  },
+  "IBM Lotus Forms Viewer 3.5": {
+    "version": "7.6.0.220"
+  },
+  "IBM Lotus Forms Viewer 3.5.1": {
+    "version": "7.6.1.233"
+  },
+  "icecap_collection_neutral": {
+    "version": "15.0.27005"
+  },
+  "icecap_collection_x64": {
+    "version": "15.0.27005"
+  },
+  "icecap_collectionresources": {
+    "version": "15.0.27005"
+  },
+  "icecap_collectionresourcesx64": {
+    "version": "15.0.27005"
+  },
+  "IDT Audio": {
+    "version": "1.0.6495.0"
+  },
+  "iGrafx Origins": {
+    "version": "16.7.0.1254"
+  },
+  "IIS 10.0 Express": {
+    "version": "10.0.1740"
+  },
+  "IIS Express Application Compatibility Database for x64": {
+    "version": ""
+  },
+  "IIS Express Application Compatibility Database for x86": {
+    "version": ""
+  },
+  "Information Center": {
+    "version": "1.0.0.0"
+  },
+  "Install Merge Module for Board": {
+    "version": "1.00.0000"
+  },
+  "InstallRoot": {
+    "version": "5.0.1"
+  },
+  "InstanceFinder": {
+    "version": "020.021.004"
+  },
+  "Integrated Camera": {
+    "version": "3.5.7.4702"
+  },
+  "Intel(R) 2D Imaging": {
+    "version": "1.0.0.0"
+  },
+  "Intel(R) 2D Imaging Setup Wizard": {
+    "version": "30.14393.9656.3064"
+  },
+  "Intel(R) Chipset Device Software": {
+    "version": "10.1.1.38"
+  },
+  "Intel(R) Management Engine Components": {
+    "version": "11.0.0.1153"
+  },
+  "Intel(R) ME UninstallLegacy": {
+    "version": "1.0.1.0"
+  },
+  "Intel(R) Network Connections": {
+    "version": "22.7.17.0"
+  },
+  "Intel(R) Network Connections Drivers": {
+    "version": 20.2
+  },
+  "Intel(R) PRO/Wireless Driver": {
+    "version": "19.40.0000.5687"
+  },
+  "Intel(R) Processor Graphics": {
+    "version": "21.20.16.4534"
+  },
+  "Intel(R) Rapid Storage Technology": {
+    "version": "14.8.1.1043"
+  },
+  "Intel(R) Rapid Storage Technology enterprise": {
+    "version": "4.2.0.1136"
+  },
+  "Intel(R) Trusted Connect Service Client": {
+    "version": "1.45.447.1"
+  },
+  "Intel(R) Wireless Bluetooth(R)": {
+    "version": "17.1.1531.1764"
+  },
+  "Intel(R) Wireless Bluetooth(R)(patch version 17.1.1431.1)": {
+    "version": "17.1.1407.0480"
+  },
+  "IntelliTraceProfilerProxy": {
+    "version": "15.0.25.0"
+  },
+  "Intel® Integrated Sensor Solution": {
+    "version": "3.0.30.1076"
+  },
+  "Intel® PROSet/Wireless Enterprise Software": {
+    "version": "19.1.0.0864"
+  },
+  "Intel® PROSet/Wireless Software": {
+    "version": "18.33.0"
+  },
+  "Intel® PROSet/Wireless WiFi Software": {
+    "version": "19.46.0.0917"
+  },
+  "Intel® Security Assist": {
+    "version": "1.0.0.532"
+  },
+  "Intel® Trusted Connect Service Client": {
+    "version": "1.42.17.0"
+  },
+  "Intergraph Licensing 11.11.1": {
+    "version": "11.11.0100.01017"
+  },
+  "ISS_Drivers_x64": {
+    "version": "3.0.16.3058"
+  },
+  "Java 7 Update 80": {
+    "version": "7.0.800"
+  },
+  "Java 8 Update 121": {
+    "version": "8.0.1210.13"
+  },
+  "Java 8 Update 121 (64-bit)": {
+    "version": "8.0.1210.13"
+  },
+  "Java 8 Update 131": {
+    "version": "8.0.1310.11"
+  },
+  "Java 8 Update 131 (64-bit)": {
+    "version": "8.0.1310.11"
+  },
+  "Java 8 Update 144": {
+    "version": "8.0.1440.1"
+  },
+  "Java 8 Update 144 (64-bit)": {
+    "version": "8.0.1440.1"
+  },
+  "Java 8 Update 152": {
+    "version": "8.0.1520.16"
+  },
+  "Java 8 Update 152 (64-bit)": {
+    "version": "8.0.1520.16"
+  },
+  "Java 8 Update 161": {
+    "version": "8.0.1610.12"
+  },
+  "Java 8 Update 161 (64-bit)": {
+    "version": "8.0.1610.12"
+  },
+  "Java 8 Update 162": {
+    "version": "8.0.1620.12"
+  },
+  "Java 8 Update 162 (64-bit)": {
+    "version": "8.0.1620.12"
+  },
+  "Java Auto Updater": {
+    "version": "2.8.144.1"
+  },
+  "Java SE Development Kit 8 Update 152 (64-bit)": {
+    "version": "8.0.1520.16"
+  },
+  "JELA Tech Portal- Design Tools 64 bit": {
+    "version": "1.0.0"
+  },
+  "JELA Tech Portal- Imaging Tools": {
+    "version": "1.0.0"
+  },
+  "KEDIT for Windows 1.6": {
+    "version": "1.60 Service Level 1"
+  },
+  "Kits Configuration Installer": {
+    "version": "10.1.16299.15"
+  },
+  "KONICA MINOLTA Universal PCL": {
+    "version": ""
+  },
+  "KONICA MINOLTA Universal PS": {
+    "version": ""
+  },
+  "LCOM ATK 5.0.2": {
+    "version": "5.0.2"
+  },
+  "LCOM Audit Program version 1.3.0": {
+    "version": "1.3.0"
+  },
+  "LCOM Optimizer 5.0.3": {
+    "version": "5.0.3.0"
+  },
+  "LCOM Tools": {
+    "version": "5.0.30"
+  },
+  "Leica Geosystems XPro SGM 6.1": {
+    "version": ""
+  },
+  "Lenovo Active Protection System": {
+    "version": "1.82.00.20"
+  },
+  "Lenovo Power Management Driver": {
+    "version": "1.67.12.19"
+  },
+  "Lenovo System Update": {
+    "version": "5.07.0070"
+  },
+  "Lexmark MX810 Series Uninstaller": {
+    "version": ""
+  },
+  "Lexmark Network Twain Scan Driver": {
+    "version": "1.17.108.0"
+  },
+  "Lexmark Printer Driver Configuration Utility": {
+    "version": "3.4.89.0"
+  },
+  "Lexmark Printer Software G2 PS3 Print Driver": {
+    "version": "2.2.0.0"
+  },
+  "Lexmark Printer Software G2 Scan Driver": {
+    "version": "2.2.0.0"
+  },
+  "Lexmark Status Center": {
+    "version": "2.1.43.0"
+  },
+  "Lexmark Universal Fax Driver": {
+    "version": "2.11.0.0"
+  },
+  "Lexmark Universal v2 XL Print Driver": {
+    "version": "2.12.0.0"
+  },
+  "Lexmark USB Bidi Solution": {
+    "version": "1.0.39.0"
+  },
+  "License Activation (remove only)": {
+    "version": "1.2.0.7"
+  },
+  "Lightroom": {
+    "version": 5.2
+  },
+  "LightScribe System Software  1.12.29.2": {
+    "version": "1.12.29.2"
+  },
+  "LJDXPHelperUI": {
+    "version": "020.021.004"
+  },
+  "M-Business Client": {
+    "version": 1
+  },
+  "MALT": {
+    "version": "2.2.5"
+  },
+  "Mapping and Charting Solutions 10.3.1 for Desktop": {
+    "version": "10.3.4532"
+  },
+  "MARK IV-B Forecaster Application": {
+    "version": "12.00.0015"
+  },
+  "MARK IV-B Forecaster Application Help Files": {
+    "version": "12.00.0015"
+  },
+  "MarketResearch": {
+    "version": "130.0.374.000"
+  },
+  "Maxx Audio Installer (x64)": {
+    "version": "2.6.9060.3"
+  },
+  "McAfee Agent": {
+    "version": "5.0.5.658"
+  },
+  "McAfee DLP Endpoint": {
+    "version": "10.0.100.372"
+  },
+  "McAfee Host Intrusion Prevention": {
+    "version": "8.00.0900"
+  },
+  "McAfee Policy Auditor Agent": {
+    "version": "6.2.0.342"
+  },
+  "McAfee RSD Sensor": {
+    "version": "5.0.5.120"
+  },
+  "McAfee Solidifier": {
+    "version": "8.0.0.875"
+  },
+  "McAfee VirusScan Enterprise": {
+    "version": "8.8.01000"
+  },
+  "Medcin": {
+    "version": "MEDCIN v22 Update 9 (Jan 2018)"
+  },
+  "MegaRAID Storage Manager v": {
+    "version": "14.02.01.03"
+  },
+  "MHS DMLSS": {
+    "version": "3.1.3234"
+  },
+  "Microsoft .NET Core Host - 2.0.3 (x64)": {
+    "version": "16.12.25816"
+  },
+  "Microsoft .NET Core Host FX Resolver - 2.0.3 (x64)": {
+    "version": "16.12.25816"
+  },
+  "Microsoft .NET Core Runtime - 2.0.3 (x64)": {
+    "version": "16.12.25816"
+  },
+  "Microsoft .NET Core SDK -  (x64)": {
+    "version": "2.1.2"
+  },
+  "Microsoft .NET Core SDK - 2.1.2 (x64)": {
+    "version": "8.16.39996"
+  },
+  "Microsoft .NET CoreRuntime For CoreCon": {
+    "version": "1.0.0.0"
+  },
+  "Microsoft .NET CoreRuntime SDK": {
+    "version": "1.1.25305.1"
+  },
+  "Microsoft .NET Framework 4 Multi-Targeting Pack": {
+    "version": "4.0.30319"
+  },
+  "Microsoft .NET Framework 4.5 Multi-Targeting Pack": {
+    "version": "4.5.50710"
+  },
+  "Microsoft .NET Framework 4.5.1 Multi-Targeting Pack": {
+    "version": "4.5.50932"
+  },
+  "Microsoft .NET Framework 4.5.1 Multi-Targeting Pack (ENU)": {
+    "version": "4.5.50932"
+  },
+  "Microsoft .NET Framework 4.5.1 SDK": {
+    "version": "4.5.51641"
+  },
+  "Microsoft .NET Framework 4.5.2 Multi-Targeting Pack": {
+    "version": "4.5.51209"
+  },
+  "Microsoft .NET Framework 4.5.2 Multi-Targeting Pack (ENU)": {
+    "version": "4.5.51209"
+  },
+  "Microsoft .NET Framework 4.6 Targeting Pack": {
+    "version": "4.6.00081"
+  },
+  "Microsoft .NET Framework 4.6.1 SDK": {
+    "version": "4.6.01055"
+  },
+  "Microsoft .NET Framework 4.6.1 Targeting Pack": {
+    "version": "4.6.01055"
+  },
+  "Microsoft .NET Framework 4.7.1": {
+    "version": "4.7.02558"
+  },
+  "Microsoft .NET Framework Cumulative Intellisense Pack for Visual Studio (ENU)": {
+    "version": "4.7.02558"
+  },
+  "Microsoft .NET Native SDK": {
+    "version": "15.0.24211"
+  },
+  "Microsoft Access database engine 2010 (English)": {
+    "version": "14.0.4763.1000"
+  },
+  "Microsoft Access MUI (English) 2013": {
+    "version": "15.0.4569.1506"
+  },
+  "Microsoft Access MUI (English) 2016": {
+    "version": "16.0.4266.1001"
+  },
+  "Microsoft Access Setup Metadata MUI (English) 2013": {
+    "version": "15.0.4569.1506"
+  },
+  "Microsoft Access Setup Metadata MUI (English) 2016": {
+    "version": "16.0.4266.1001"
+  },
+  "Microsoft Analysis Services OLE DB Provider": {
+    "version": "14.0.1000.397"
+  },
+  "Microsoft App Update for Microsoft.BingFinance_2015.604.248.843_neutral_~_8wekyb3d8bbwe (x64)": {
+    "version": "1.0.0.0"
+  },
+  "Microsoft App Update for Microsoft.BingFoodAndDrink_2014.326.2200.4175_neutral_~_8wekyb3d8bbwe (x64)": {
+    "version": "1.0.0.0"
+  },
+  "Microsoft App Update for Microsoft.BingHealthAndFitness_2015.526.2133.2954_neutral_~_8wekyb3d8bbwe (x64)": {
+    "version": "1.0.0.0"
+  },
+  "Microsoft App Update for Microsoft.BingMaps_2014.830.1811.3840_neutral_~_8wekyb3d8bbwe (x64)": {
+    "version": "1.0.0.0"
+  },
+  "Microsoft App Update for Microsoft.BingNews_2015.526.2134.5766_neutral_~_8wekyb3d8bbwe (x64)": {
+    "version": "1.0.0.0"
+  },
+  "Microsoft App Update for Microsoft.BingSports_2015.526.2135.5000_neutral_~_8wekyb3d8bbwe (x64)": {
+    "version": "1.0.0.0"
+  },
+  "Microsoft App Update for Microsoft.BingTravel_2015.526.2136.4019_neutral_~_8wekyb3d8bbwe (x64)": {
+    "version": "1.0.0.0"
+  },
+  "Microsoft App Update for Microsoft.BingWeather_2015.526.2137.2941_neutral_~_8wekyb3d8bbwe (x64)": {
+    "version": "1.0.0.0"
+  },
+  "Microsoft App Update for Microsoft.HelpAndTips_2014.331.1818.1664_neutral_~_8wekyb3d8bbwe (x64)": {
+    "version": "1.0.0.0"
+  },
+  "Microsoft App Update for Microsoft.Reader_2014.312.322.1510_neutral_~_8wekyb3d8bbwe (x64)": {
+    "version": "1.0.0.0"
+  },
+  "Microsoft App Update for microsoft.windowscommunicationsapps_2015.702.751.428_neutral_~_8wekyb3d8bbwe (x64)": {
+    "version": "1.0.0.0"
+  },
+  "Microsoft App Update for Microsoft.WindowsScan_2013.1007.2015.3834_neutral_~_8wekyb3d8bbwe (x64)": {
+    "version": "1.0.0.0"
+  },
+  "Microsoft Application Error Reporting": {
+    "version": "12.0.6012.5000"
+  },
+  "Microsoft ASP.NET Core 2.0.3 Runtime Package Store (x64)": {
+    "version": "2.0.12231.0"
+  },
+  "Microsoft ASP.NET Core Module for IIS Express": {
+    "version": "1.0.1985"
+  },
+  "Microsoft ASP.NET Diagnostic Pack for Visual Studio": {
+    "version": "15.0.31125.0"
+  },
+  "Microsoft ASP.NET MVC 4 Runtime": {
+    "version": "4.0.40804.0"
+  },
+  "Microsoft ASP.NET Web Pages 2 Runtime": {
+    "version": "2.0.20716.0"
+  },
+  "Microsoft ASP.NET Web Tools Packages 15.0 - ENU": {
+    "version": "1.0.20816.0"
+  },
+  "Microsoft Azure Authoring Tools - v2.9.5.3": {
+    "version": "2.9.8699.20"
+  },
+  "Microsoft Azure Compute Emulator - v2.9.5.3": {
+    "version": "2.9.8699.20"
+  },
+  "Microsoft Azure Libraries for .NET – v2.9": {
+    "version": "3.0.0127.060"
+  },
+  "Microsoft Azure Storage Emulator - v5.2": {
+    "version": "5.2.17193.1427"
+  },
+  "Microsoft Baseline Security Analyzer 2.3": {
+    "version": "2.3.2211"
+  },
+  "Microsoft Build Tools 14.0 (amd64)": {
+    "version": "14.0.23107"
+  },
+  "Microsoft Build Tools 14.0 (x86)": {
+    "version": "14.0.23107"
+  },
+  "Microsoft Build Tools Language Resources 14.0 (amd64)": {
+    "version": "14.0.23107"
+  },
+  "Microsoft Build Tools Language Resources 14.0 (x86)": {
+    "version": "14.0.23107"
+  },
+  "Microsoft CCR and DSS Runtime 2008 R3": {
+    "version": "2.2.760"
+  },
+  "Microsoft DCF MUI (English) 2013": {
+    "version": "15.0.4569.1506"
+  },
+  "Microsoft DCF MUI (English) 2016": {
+    "version": "16.0.4266.1001"
+  },
+  "Microsoft Deployment Toolkit ()": {
+    "version": "6.3.8443.1000"
+  },
+  "Microsoft Excel MUI (English) 2013": {
+    "version": "15.0.4569.1506"
+  },
+  "Microsoft Excel MUI (English) 2016": {
+    "version": "16.0.4266.1001"
+  },
+  "Microsoft Exchange Web Services Managed API 2.1": {
+    "version": "15.0.847.30"
+  },
+  "Microsoft Groove MUI (English) 2013": {
+    "version": "15.0.4569.1506"
+  },
+  "Microsoft Groove MUI (English) 2016": {
+    "version": "16.0.4266.1001"
+  },
+  "Microsoft Help Viewer 1.1": {
+    "version": "1.1.40219"
+  },
+  "Microsoft Help Viewer 2.2": {
+    "version": "2.2.23107"
+  },
+  "Microsoft HEVC Media Extension Installation for Microsoft.HEVCVideoExtension_1.0.2512.0_x64__8wekyb3d8bbwe (x64)": {
+    "version": "1.0.0.0"
+  },
+  "Microsoft Identity Extensions": {
+    "version": "2.0.1459.0"
+  },
+  "Microsoft InfoPath MUI (English) 2013": {
+    "version": "15.0.4569.1506"
+  },
+  "Microsoft InfoPath MUI (English) 2016": {
+    "version": "16.0.4266.1001"
+  },
+  "Microsoft Interop Forms Redistributable Package 2.0a": {
+    "version": "2.0.0"
+  },
+  "Microsoft Lync 2010": {
+    "version": "4.0.7577.4540"
+  },
+  "Microsoft Lync MUI (English) 2013": {
+    "version": "15.0.4569.1506"
+  },
+  "Microsoft Lync Web App Plug-in": {
+    "version": "15.8.8308.965"
+  },
+  "Microsoft Lync Web App Plug-in (64-bit)": {
+    "version": "15.8.8308.965"
+  },
+  "Microsoft NetBanner": {
+    "version": "2.1.161"
+  },
+  "Microsoft NetStandard SDK": {
+    "version": "15.0.51105"
+  },
+  "Microsoft Network Monitor 3.4": {
+    "version": "3.4.2350.0"
+  },
+  "Microsoft Network Monitor: NetworkMonitor Parsers 3.4": {
+    "version": "3.4.2350.0"
+  },
+  "Microsoft ODBC Driver 11 for SQL Server": {
+    "version": "12.2.5543.11"
+  },
+  "Microsoft ODBC Driver 13 for SQL Server": {
+    "version": "14.0.1000.169"
+  },
+  "Microsoft Office 2010 Language Pack Service Pack 1 (SP1)": {
+    "version": ""
+  },
+  "Microsoft Office 2010 Service Pack 1 (SP1)": {
+    "version": ""
+  },
+  "Microsoft Office 64-bit Components 2013": {
+    "version": "15.0.4569.1506"
+  },
+  "Microsoft Office 64-bit Components 2016": {
+    "version": "16.0.4266.1001"
+  },
+  "Microsoft Office Office 64-bit Components 2010": {
+    "version": "14.0.7015.1000"
+  },
+  "Microsoft Office OSM MUI (English) 2013": {
+    "version": "15.0.4569.1506"
+  },
+  "Microsoft Office OSM MUI (English) 2016": {
+    "version": "16.0.4266.1001"
+  },
+  "Microsoft Office OSM UX MUI (English) 2013": {
+    "version": "15.0.4569.1506"
+  },
+  "Microsoft Office OSM UX MUI (English) 2016": {
+    "version": "16.0.4266.1001"
+  },
+  "Microsoft Office Professional Plus 2013": {
+    "version": "15.0.4569.1506"
+  },
+  "Microsoft Office Professional Plus 2016": {
+    "version": "16.0.4266.1001"
+  },
+  "Microsoft Office Project MUI (English) 2010": {
+    "version": "14.0.4763.1000"
+  },
+  "Microsoft Office Project Professional 2010": {
+    "version": "14.0.7015.1000"
+  },
+  "Microsoft Office Proof (English) 2010": {
+    "version": "14.0.6029.1000"
+  },
+  "Microsoft Office Proof (French) 2010": {
+    "version": "14.0.6029.1000"
+  },
+  "Microsoft Office Proof (Spanish) 2010": {
+    "version": "14.0.4763.1000"
+  },
+  "Microsoft Office Proofing (English) 2010": {
+    "version": "14.0.7015.1000"
+  },
+  "Microsoft Office Proofing (English) 2013": {
+    "version": "15.0.4569.1506"
+  },
+  "Microsoft Office Proofing (English) 2016": {
+    "version": "16.0.4266.1001"
+  },
+  "Microsoft Office Proofing Tools 2013 - English": {
+    "version": "15.0.4569.1506"
+  },
+  "Microsoft Office Proofing Tools 2013 - Español": {
+    "version": "15.0.4569.1506"
+  },
+  "Microsoft Office Proofing Tools 2016 - English": {
+    "version": "16.0.4266.1001"
+  },
+  "Microsoft Office Shared 64-bit MUI (English) 2010": {
+    "version": "14.0.7015.1000"
+  },
+  "Microsoft Office Shared 64-bit MUI (English) 2013": {
+    "version": "15.0.4569.1506"
+  },
+  "Microsoft Office Shared 64-bit MUI (English) 2016": {
+    "version": "16.0.4266.1001"
+  },
+  "Microsoft Office Shared 64-bit Setup Metadata MUI (English) 2010": {
+    "version": "14.0.4763.1000"
+  },
+  "Microsoft Office Shared 64-bit Setup Metadata MUI (English) 2013": {
+    "version": "15.0.4569.1506"
+  },
+  "Microsoft Office Shared 64-bit Setup Metadata MUI (English) 2016": {
+    "version": "16.0.4266.1001"
+  },
+  "Microsoft Office Shared MUI (English) 2010": {
+    "version": "14.0.4763.1000"
+  },
+  "Microsoft Office Shared MUI (English) 2013": {
+    "version": "15.0.4569.1506"
+  },
+  "Microsoft Office Shared MUI (English) 2016": {
+    "version": "16.0.4266.1001"
+  },
+  "Microsoft Office Shared Setup Metadata MUI (English) 2010": {
+    "version": "14.0.4763.1000"
+  },
+  "Microsoft Office Shared Setup Metadata MUI (English) 2013": {
+    "version": "15.0.4569.1506"
+  },
+  "Microsoft Office Shared Setup Metadata MUI (English) 2016": {
+    "version": "16.0.4266.1001"
+  },
+  "Microsoft Office SharePoint Designer 2010": {
+    "version": "14.0.4763.1000"
+  },
+  "Microsoft Office SharePoint Designer MUI (English) 2010": {
+    "version": "14.0.4763.1000"
+  },
+  "Microsoft Office Visio 2010": {
+    "version": "14.0.7015.1000"
+  },
+  "Microsoft Office Visio MUI (English) 2010": {
+    "version": "14.0.7015.1000"
+  },
+  "Microsoft OneDrive": {
+    "version": "17.3.6816.0313"
+  },
+  "Microsoft OneNote MUI (English) 2013": {
+    "version": "15.0.4569.1506"
+  },
+  "Microsoft OneNote MUI (English) 2016": {
+    "version": "16.0.4266.1001"
+  },
+  "Microsoft Outlook MUI (English) 2013": {
+    "version": "15.0.4569.1506"
+  },
+  "Microsoft Outlook MUI (English) 2016": {
+    "version": "16.0.4266.1001"
+  },
+  "Microsoft PFE Remediation for Configuration Manager": {
+    "version": 14.03
+  },
+  "Microsoft Policy Platform": {
+    "version": "68.1.1010.0"
+  },
+  "Microsoft Portable Library Multi-Targeting Pack": {
+    "version": "15.0.26621.02"
+  },
+  "Microsoft Portable Library Multi-Targeting Pack Language Pack - enu": {
+    "version": "15.0.26621.02"
+  },
+  "Microsoft Power BI Desktop": {
+    "version": "2.55.5010.641"
+  },
+  "Microsoft PowerPoint MUI (English) 2013": {
+    "version": "15.0.4569.1506"
+  },
+  "Microsoft PowerPoint MUI (English) 2016": {
+    "version": "16.0.4266.1001"
+  },
+  "Microsoft Project MUI (English) 2013": {
+    "version": "15.0.4569.1506"
+  },
+  "Microsoft Project MUI (English) 2016": {
+    "version": "16.0.4266.1001"
+  },
+  "Microsoft Project Professional 2010": {
+    "version": "14.0.4763.1000"
+  },
+  "Microsoft Project Professional 2013": {
+    "version": "15.0.4569.1506"
+  },
+  "Microsoft Project Professional 2016": {
+    "version": "16.0.4266.1001"
+  },
+  "Microsoft Project Standard 2013": {
+    "version": "15.0.4569.1506"
+  },
+  "Microsoft Project Standard 2016": {
+    "version": "16.0.4266.1001"
+  },
+  "Microsoft Publisher MUI (English) 2013": {
+    "version": "15.0.4569.1506"
+  },
+  "Microsoft Publisher MUI (English) 2016": {
+    "version": "16.0.4266.1001"
+  },
+  "Microsoft Report Viewer 2012 Runtime": {
+    "version": "11.0.2100.60"
+  },
+  "Microsoft Report Viewer Redistributable 2005": {
+    "version": ""
+  },
+  "Microsoft S/MIME": {
+    "version": "14.3.123.2"
+  },
+  "Microsoft S/MIME ActiveX Control": {
+    "version": "15.1.1261.18"
+  },
+  "Microsoft Server Proof (Arabic) 2016": {
+    "version": "16.0.4351.1000"
+  },
+  "Microsoft Server Proof (English) 2016": {
+    "version": "16.0.4351.1000"
+  },
+  "Microsoft Server Proof (French) 2016": {
+    "version": "16.0.4351.1000"
+  },
+  "Microsoft Server Proof (German) 2016": {
+    "version": "16.0.4351.1000"
+  },
+  "Microsoft Server Proof (Russian) 2016": {
+    "version": "16.0.4351.1000"
+  },
+  "Microsoft Server Proof (Spanish) 2016": {
+    "version": "16.0.4351.1000"
+  },
+  "Microsoft SharePoint Designer 2010": {
+    "version": "14.0.4763.1000"
+  },
+  "Microsoft SharePoint Designer 2013": {
+    "version": "15.0.4569.1506"
+  },
+  "Microsoft SharePoint Designer MUI (English) 2013": {
+    "version": "15.0.4569.1506"
+  },
+  "Microsoft SharePoint Foundation 2016 1033 Lang Pack": {
+    "version": "16.0.4351.1000"
+  },
+  "Microsoft SharePoint Foundation 2016 Core": {
+    "version": "16.0.4351.1000"
+  },
+  "Microsoft SharePoint Server 2016": {
+    "version": "16.0.4351.1000"
+  },
+  "Microsoft Silverlight": {
+    "version": "5.1.50906.0"
+  },
+  "Microsoft Skype for Business MUI (English) 2016": {
+    "version": "16.0.4266.1001"
+  },
+  "Microsoft SQL Server 2005 Analysis Services ADOMD.NET": {
+    "version": "9.00.1399.06"
+  },
+  "Microsoft SQL Server 2008 R2": {
+    "version": ""
+  },
+  "Microsoft SQL Server 2008 R2 Management Objects": {
+    "version": "10.51.2500.0"
+  },
+  "Microsoft SQL Server 2008 R2 Native Client": {
+    "version": "10.50.1600.1"
+  },
+  "Microsoft SQL Server 2008 R2 RsFx Driver": {
+    "version": "10.50.1600.1"
+  },
+  "Microsoft SQL Server 2008 R2 Setup (English)": {
+    "version": "10.50.1600.1"
+  },
+  "Microsoft SQL Server 2008 Setup Support Files": {
+    "version": "10.1.2731.0"
+  },
+  "Microsoft SQL Server 2012 (64-bit)": {
+    "version": ""
+  },
+  "Microsoft SQL Server 2012 Command Line Utilities": {
+    "version": "11.3.6020.0"
+  },
+  "Microsoft SQL Server 2012 Data-Tier App Framework": {
+    "version": "11.1.2818.0"
+  },
+  "Microsoft SQL Server 2012 Express LocalDB": {
+    "version": "11.0.2318.0"
+  },
+  "Microsoft SQL Server 2012 Management Objects": {
+    "version": "11.0.2100.60"
+  },
+  "Microsoft SQL Server 2012 Management Objects  (x64)": {
+    "version": "11.0.2100.60"
+  },
+  "Microsoft SQL Server 2012 Native Client": {
+    "version": "11.3.6540.0"
+  },
+  "Microsoft SQL Server 2012 Policies": {
+    "version": "11.0.2100.60"
+  },
+  "Microsoft SQL Server 2012 RsFx Driver": {
+    "version": "11.3.6020.0"
+  },
+  "Microsoft SQL Server 2012 Setup (English)": {
+    "version": "11.3.6020.0"
+  },
+  "Microsoft SQL Server 2012 T-SQL Language Service": {
+    "version": "11.0.2100.60"
+  },
+  "Microsoft SQL Server 2012 Transact-SQL Compiler Service": {
+    "version": "11.3.6020.0"
+  },
+  "Microsoft SQL Server 2012 Transact-SQL ScriptDom": {
+    "version": "11.3.6020.0"
+  },
+  "Microsoft SQL Server 2014 Management Objects": {
+    "version": "12.0.2000.8"
+  },
+  "Microsoft SQL Server 2016 (64-bit)": {
+    "version": ""
+  },
+  "Microsoft SQL Server 2016 LocalDB": {
+    "version": "13.1.4001.0"
+  },
+  "Microsoft SQL Server 2016 RS Addin for SharePoint": {
+    "version": "13.1.4001.0"
+  },
+  "Microsoft SQL Server 2016 RsFx Driver": {
+    "version": "13.1.4001.0"
+  },
+  "Microsoft SQL Server 2016 Setup (English)": {
+    "version": "13.1.4001.0"
+  },
+  "Microsoft SQL Server 2016 T-SQL ScriptDom": {
+    "version": "13.1.4001.0"
+  },
+  "Microsoft SQL Server 2017": {
+    "version": ""
+  },
+  "Microsoft SQL Server 2017 (64-bit)": {
+    "version": ""
+  },
+  "Microsoft SQL Server 2017 Policies": {
+    "version": "14.0.1000.169"
+  },
+  "Microsoft SQL Server 2017 RsFx Driver": {
+    "version": "14.0.3015.40"
+  },
+  "Microsoft SQL Server 2017 Setup (English)": {
+    "version": "14.0.3015.40"
+  },
+  "Microsoft SQL Server 2017 T-SQL Language Service": {
+    "version": "14.0.1000.169"
+  },
+  "Microsoft SQL Server Browser": {
+    "version": "10.50.1600.1"
+  },
+  "Microsoft SQL Server Compact 4.0 SP1 x64 ENU": {
+    "version": "4.0.8876.1"
+  },
+  "Microsoft SQL Server Data Tools – Database Projects – Web installer entry point": {
+    "version": "10.3.20116.0"
+  },
+  "Microsoft SQL Server Data-Tier Application Framework (x86)": {
+    "version": "14.0.3811.1"
+  },
+  "Microsoft SQL Server Management Studio - 17.4": {
+    "version": "14.0.17213.0"
+  },
+  "Microsoft SQL Server Reporting Services": {
+    "version": "0.1.6514.11119"
+  },
+  "Microsoft SQL Server System CLR Types": {
+    "version": "10.51.2500.0"
+  },
+  "Microsoft SQL Server VSS Writer": {
+    "version": "10.50.1600.1"
+  },
+  "Microsoft Sync Framework Runtime v1.0 SP1 (x64)": {
+    "version": "1.0.3010.0"
+  },
+  "Microsoft System CLR Types for SQL Server 2012": {
+    "version": "11.0.2100.60"
+  },
+  "Microsoft System CLR Types for SQL Server 2012 (x64)": {
+    "version": "11.3.6020.0"
+  },
+  "Microsoft System CLR Types for SQL Server 2014": {
+    "version": "12.0.2402.11"
+  },
+  "Microsoft System CLR Types for SQL Server 2017": {
+    "version": "14.0.1000.169"
+  },
+  "Microsoft System CLR Types for SQL Server 2017 CTP2.1": {
+    "version": "14.0.600.250"
+  },
+  "Microsoft Team Foundation Server 2018": {
+    "version": "16.122.27102"
+  },
+  "Microsoft VC++ redistributables repacked.": {
+    "version": "12.0.0.0"
+  },
+  "Microsoft Visio 2010 Service Pack 1 (SP1)": {
+    "version": ""
+  },
+  "Microsoft Visio Compatibility Pack": {
+    "version": "15.0.4454.1509"
+  },
+  "Microsoft Visio MUI (English) 2013": {
+    "version": "15.0.4420.1017"
+  },
+  "Microsoft Visio MUI (English) 2016": {
+    "version": "16.0.4266.1001"
+  },
+  "Microsoft Visio Premium 2010": {
+    "version": "14.0.6029.1000"
+  },
+  "Microsoft Visio Professional 2010": {
+    "version": "14.0.4763.1000"
+  },
+  "Microsoft Visio Professional 2013": {
+    "version": "15.0.4569.1506"
+  },
+  "Microsoft Visio Professional 2016": {
+    "version": "16.0.4266.1001"
+  },
+  "Microsoft Visio Standard 2013": {
+    "version": "15.0.4420.1017"
+  },
+  "Microsoft Visio Standard 2016": {
+    "version": "16.0.4266.1001"
+  },
+  "Microsoft Visio Viewer 2010": {
+    "version": "14.0.4763.1000"
+  },
+  "Microsoft Visio Viewer 2013": {
+    "version": "15.0.4569.1506"
+  },
+  "Microsoft Visual Basic for Applications 7.1 (x86)": {
+    "version": "7.1.00.00"
+  },
+  "Microsoft Visual Basic for Applications 7.1 (x86) English": {
+    "version": "7.1.0.0"
+  },
+  "Microsoft Visual Basic PowerPacks 10.0": {
+    "version": "10.0.20911"
+  },
+  "Microsoft Visual C++ 2005 Redistributable": {
+    "version": "8.0.56336"
+  },
+  "Microsoft Visual C++ 2005 Redistributable (x64)": {
+    "version": "8.0.59192"
+  },
+  "Microsoft Visual C++ 2008 Redistributable - x64": {
+    "version": "9.0.21022"
+  },
+  "Microsoft Visual C++ 2008 Redistributable - x64 .17": {
+    "version": "9.0.30729"
+  },
+  "Microsoft Visual C++ 2008 Redistributable - x64 9.0.30729.4148": {
+    "version": "9.0.30729.4148"
+  },
+  "Microsoft Visual C++ 2008 Redistributable - x64 9.0.30729.6161": {
+    "version": "9.0.30729.6161"
+  },
+  "Microsoft Visual C++ 2008 Redistributable - x86": {
+    "version": "9.0.30729.6161"
+  },
+  "Microsoft Visual C++ 2008 Redistributable - x86 .17": {
+    "version": "9.0.30729"
+  },
+  "Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729.17": {
+    "version": "9.0.30729"
+  },
+  "Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729.4148": {
+    "version": "9.0.30729.4148"
+  },
+  "Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729.6161": {
+    "version": "9.0.30729.6161"
+  },
+  "Microsoft Visual C++ 2010  x64 Redistributable -": {
+    "version": "10.0.40219"
+  },
+  "Microsoft Visual C++ 2010  x64 Redistributable - 10.0.40219": {
+    "version": "10.0.40219"
+  },
+  "Microsoft Visual C++ 2010  x86 Redistributable -": {
+    "version": "10.0.40219"
+  },
+  "Microsoft Visual C++ 2010  x86 Redistributable - 10.0.40219": {
+    "version": "10.0.40219"
+  },
+  "Microsoft Visual C++ 2010  x86 Runtime -": {
+    "version": "10.0.40219"
+  },
+  "Microsoft Visual C++ 2012 Redistributable (x64) - 11.0.50727": {
+    "version": "11.0.50727.1"
+  },
+  "Microsoft Visual C++ 2012 Redistributable (x64) - 11.0.51106": {
+    "version": "11.0.51106.1"
+  },
+  "Microsoft Visual C++ 2012 Redistributable (x64) - 11.0.61030": {
+    "version": "11.0.61030.0"
+  },
+  "Microsoft Visual C++ 2012 Redistributable (x86) - 11.0.50727": {
+    "version": "11.0.50727.1"
+  },
+  "Microsoft Visual C++ 2012 Redistributable (x86) - 11.0.51106": {
+    "version": "11.0.51106.1"
+  },
+  "Microsoft Visual C++ 2012 Redistributable (x86) - 11.0.60610": {
+    "version": "11.0.60610.1"
+  },
+  "Microsoft Visual C++ 2012 Redistributable (x86) - 11.0.61030": {
+    "version": "11.0.61030.0"
+  },
+  "Microsoft Visual C++ 2012 x64 Additional Runtime -": {
+    "version": "11.0.50727"
+  },
+  "Microsoft Visual C++ 2012 x64 Additional Runtime - 11.0.61030": {
+    "version": "11.0.61030"
+  },
+  "Microsoft Visual C++ 2012 x64 Minimum Runtime -": {
+    "version": "11.0.51106"
+  },
+  "Microsoft Visual C++ 2012 x64 Minimum Runtime - 11.0.61030": {
+    "version": "11.0.61030"
+  },
+  "Microsoft Visual C++ 2012 x86 Additional Runtime -": {
+    "version": "11.0.51106"
+  },
+  "Microsoft Visual C++ 2012 x86 Additional Runtime - 11.0.61030": {
+    "version": "11.0.61030"
+  },
+  "Microsoft Visual C++ 2012 x86 Minimum Runtime -": {
+    "version": "11.0.51106"
+  },
+  "Microsoft Visual C++ 2012 x86 Minimum Runtime - 11.0.61030": {
+    "version": "11.0.61030"
+  },
+  "Microsoft Visual C++ 2013 Redistributable (x64) - 12.0.21005": {
+    "version": "12.0.21005.1"
+  },
+  "Microsoft Visual C++ 2013 Redistributable (x64) - 12.0.30501": {
+    "version": "12.0.30501.0"
+  },
+  "Microsoft Visual C++ 2013 Redistributable (x64) - 12.0.40660": {
+    "version": "12.0.40660.0"
+  },
+  "Microsoft Visual C++ 2013 Redistributable (x86) - 12.0.21005": {
+    "version": "12.0.21005.1"
+  },
+  "Microsoft Visual C++ 2013 Redistributable (x86) - 12.0.30501": {
+    "version": "12.0.30501.0"
+  },
+  "Microsoft Visual C++ 2013 Redistributable (x86) - 12.0.40660": {
+    "version": "12.0.40660.0"
+  },
+  "Microsoft Visual C++ 2013 x64 Additional Runtime -": {
+    "version": "12.0.21005"
+  },
+  "Microsoft Visual C++ 2013 x64 Additional Runtime - 12.0.21005": {
+    "version": "12.0.21005"
+  },
+  "Microsoft Visual C++ 2013 x64 Additional Runtime - 12.0.40660": {
+    "version": "12.0.40660"
+  },
+  "Microsoft Visual C++ 2013 x64 Debug Runtime -": {
+    "version": "12.0.21005"
+  },
+  "Microsoft Visual C++ 2013 x64 Minimum Runtime -": {
+    "version": "12.0.40660"
+  },
+  "Microsoft Visual C++ 2013 x64 Minimum Runtime - 12.0.21005": {
+    "version": "12.0.21005"
+  },
+  "Microsoft Visual C++ 2013 x64 Minimum Runtime - 12.0.40660": {
+    "version": "12.0.40660"
+  },
+  "Microsoft Visual C++ 2013 x86 Additional Runtime -": {
+    "version": "12.0.40660"
+  },
+  "Microsoft Visual C++ 2013 x86 Additional Runtime - 12.0.21005": {
+    "version": "12.0.21005"
+  },
+  "Microsoft Visual C++ 2013 x86 Debug Runtime -": {
+    "version": "12.0.21005"
+  },
+  "Microsoft Visual C++ 2013 x86 Minimum Runtime -": {
+    "version": "12.0.40660"
+  },
+  "Microsoft Visual C++ 2013 x86 Minimum Runtime - 12.0.21005": {
+    "version": "12.0.21005"
+  },
+  "Microsoft Visual C++ 2015 Redistributable (x64) - 14.0.23026": {
+    "version": "14.0.23026.0"
+  },
+  "Microsoft Visual C++ 2015 Redistributable (x64) - 14.0.24123": {
+    "version": "14.0.24123.0"
+  },
+  "Microsoft Visual C++ 2015 Redistributable (x86) - 14.0.23026": {
+    "version": "14.0.23026.0"
+  },
+  "Microsoft Visual C++ 2015 Redistributable (x86) - 14.0.24212": {
+    "version": "14.0.24212.0"
+  },
+  "Microsoft Visual C++ 2015 Redistributable (x86) - 14.0.24215": {
+    "version": "14.0.24215.1"
+  },
+  "Microsoft Visual C++ 2015 x64 Additional Runtime -": {
+    "version": "14.0.23026"
+  },
+  "Microsoft Visual C++ 2015 x64 Debug Runtime -": {
+    "version": "14.0.23026"
+  },
+  "Microsoft Visual C++ 2015 x64 Minimum Runtime -": {
+    "version": "14.0.23026"
+  },
+  "Microsoft Visual C++ 2015 x86 Additional Runtime -": {
+    "version": "14.0.24212"
+  },
+  "Microsoft Visual C++ 2015 x86 Additional Runtime - 14.0.23026": {
+    "version": "14.0.23026"
+  },
+  "Microsoft Visual C++ 2015 x86 Additional Runtime - 14.0.24215": {
+    "version": "14.0.24215"
+  },
+  "Microsoft Visual C++ 2015 x86 Debug Runtime -": {
+    "version": "14.0.23026"
+  },
+  "Microsoft Visual C++ 2015 x86 Minimum Runtime -": {
+    "version": "14.0.24212"
+  },
+  "Microsoft Visual C++ 2015 x86 Minimum Runtime - 14.0.23026": {
+    "version": "14.0.23026"
+  },
+  "Microsoft Visual C++ 2015 x86 Minimum Runtime - 14.0.24215": {
+    "version": "14.0.24215"
+  },
+  "Microsoft Visual C++ 2017 Redistributable (x64) - 14.11.25325": {
+    "version": "14.11.25325.0"
+  },
+  "Microsoft Visual C++ 2017 Redistributable (x64) - 14.12.25810": {
+    "version": "14.12.25810.0"
+  },
+  "Microsoft Visual C++ 2017 Redistributable (x86) - 14.11.25325": {
+    "version": "14.11.25325.0"
+  },
+  "Microsoft Visual C++ 2017 Redistributable (x86) - 14.12.25810": {
+    "version": "14.12.25810.0"
+  },
+  "Microsoft Visual C++ 2017 x64 Additional Runtime -": {
+    "version": "14.12.25810"
+  },
+  "Microsoft Visual C++ 2017 x64 Debug Runtime -": {
+    "version": "14.12.25810"
+  },
+  "Microsoft Visual C++ 2017 x64 Minimum Runtime -": {
+    "version": "14.11.25325"
+  },
+  "Microsoft Visual C++ 2017 x86 Additional Runtime -": {
+    "version": "14.12.25810"
+  },
+  "Microsoft Visual C++ 2017 x86 Debug Runtime -": {
+    "version": "14.12.25810"
+  },
+  "Microsoft Visual C++ 2017 x86 Minimum Runtime -": {
+    "version": "14.11.25325"
+  },
+  "Microsoft Visual C++ Runtime Library": {
+    "version": "1.0.0.1"
+  },
+  "Microsoft Visual J# 2.0 Redistributable Package - SE (x64)": {
+    "version": ""
+  },
+  "Microsoft Visual Studio 2010 Shell (Integrated) - ENU": {
+    "version": "10.0.40219"
+  },
+  "Microsoft Visual Studio 2010 Shell (Isolated) - ENU": {
+    "version": "10.0.40219"
+  },
+  "Microsoft Visual Studio 2010 Tools for Office Runtime (x64)": {
+    "version": "10.0.50908"
+  },
+  "Microsoft Visual Studio 2010 Tools for Office Runtime (x86)": {
+    "version": "10.0.50908"
+  },
+  "Microsoft Visual Studio 2015 Shell (Isolated)": {
+    "version": "14.0.23107"
+  },
+  "Microsoft Visual Studio 2015 Shell (Isolated) Resources": {
+    "version": "14.0.23107"
+  },
+  "Microsoft Visual Studio 2015 Shell (Minimum)": {
+    "version": "14.0.23107"
+  },
+  "Microsoft Visual Studio 2015 Shell (Minimum) Interop Assemblies": {
+    "version": "14.0.23107"
+  },
+  "Microsoft Visual Studio 2015 Shell (Minimum) Resources": {
+    "version": "14.0.23107"
+  },
+  "Microsoft Visual Studio 2015 XAML Designer": {
+    "version": "14.0.23107"
+  },
+  "Microsoft Visual Studio 2015 XAML Designer - ENU": {
+    "version": "14.0.23107"
+  },
+  "Microsoft Visual Studio Installer": {
+    "version": "1.14.160.1208"
+  },
+  "Microsoft Visual Studio Services Hub": {
+    "version": "1.0.23107.00"
+  },
+  "Microsoft Visual Studio Setup Configuration": {
+    "version": "1.14.187.27757"
+  },
+  "Microsoft Visual Studio Team Foundation Server 2017 RC Office Integration (x64)": {
+    "version": "15.123.27127"
+  },
+  "Microsoft Visual Studio Team Foundation Server 2017 RC Office Integration Language Pack (x64) - ENU": {
+    "version": "15.123.27127"
+  },
+  "Microsoft Visual Studio Tools for Applications 2015": {
+    "version": "14.0.23829"
+  },
+  "Microsoft Visual Studio Tools for Applications 2015 Finalizer": {
+    "version": "14.0.23829"
+  },
+  "Microsoft Visual Studio Tools for Applications 2015 Language Support": {
+    "version": "14.0.23107.20"
+  },
+  "Microsoft Visual Studio Tools for Applications 2015 Language Support - ENU Language Pack": {
+    "version": "14.0.23107.20"
+  },
+  "Microsoft Visual Studio Tools for Applications 2015 Language Support Finalizer": {
+    "version": "14.0.23107.20"
+  },
+  "Microsoft Visual Studio Tools for Applications 2015 x64 Hosting Support": {
+    "version": "14.0.23829"
+  },
+  "Microsoft Visual Studio Tools for Applications 2015 x86 Hosting Support": {
+    "version": "14.0.23829"
+  },
+  "Microsoft Visual Studio Tools for Applications Design-Time 3.0": {
+    "version": "10.0.40220"
+  },
+  "Microsoft Visual Studio Tools for Applications x64 Runtime 3.0": {
+    "version": "10.0.40220"
+  },
+  "Microsoft Visual Studio Tools for Applications x86 Runtime 3.0": {
+    "version": "10.0.40220"
+  },
+  "Microsoft VSS Writer for SQL Server 2017": {
+    "version": "14.0.1000.169"
+  },
+  "Microsoft Web Deploy 3.6": {
+    "version": "10.0.1981"
+  },
+  "Microsoft Web Platform Installer 5.0": {
+    "version": "5.0.50430.0"
+  },
+  "Microsoft Windows Communication Foundation Diagnostic Pack for x86": {
+    "version": "15.0.27005"
+  },
+  "Microsoft Word MUI (English) 2013": {
+    "version": "15.0.4569.1506"
+  },
+  "Microsoft Word MUI (English) 2016": {
+    "version": "16.0.4266.1001"
+  },
+  "Microsoft Workflow Debugger v1.0 for amd64": {
+    "version": "15.0.27005"
+  },
+  "Microsoft Workflow Debugger v1.0 for x86": {
+    "version": "15.0.27005"
+  },
+  "Microsoft Workflow Diagnostic Pack for x64": {
+    "version": "15.0.27005"
+  },
+  "MiPACS Dental Enterprise Viewer": {
+    "version": "3.1.1452"
+  },
+  "MiPACS Toolkit": {
+    "version": "2.0.1"
+  },
+  "MosUnst": {
+    "version": "2.0.2.0"
+  },
+  "Mozilla Firefox  (x64 en-US)": {
+    "version": "59.0.2"
+  },
+  "Mozilla Firefox  (x86 en-US)": {
+    "version": 58
+  },
+  "Mozilla Firefox  ESR (x86 en-US)": {
+    "version": "31.8.0"
+  },
+  "Mozilla Firefox 47.0 (x86 en-US)": {
+    "version": 47
+  },
+  "Mozilla Firefox 49.0 (x86 en-US)": {
+    "version": 49
+  },
+  "Mozilla Firefox 55.0.1 (x86 en-US)": {
+    "version": "55.0.1"
+  },
+  "Mozilla Firefox 56.0 (x64 en-US)": {
+    "version": 56
+  },
+  "Mozilla Firefox 56.0 (x86 en-US)": {
+    "version": 56
+  },
+  "Mozilla Firefox 58.0.1 (x64 en-US)": {
+    "version": "58.0.1"
+  },
+  "Mozilla Firefox 59.0.2 (x64 en-US)": {
+    "version": "59.0.2"
+  },
+  "Mozilla Firefox 59.0.2 (x86 en-US)": {
+    "version": "59.0.2"
+  },
+  "Mozilla Maintenance Service": {
+    "version": 58
+  },
+  "MSI Development Tools": {
+    "version": "10.1.16299.15"
+  },
+  "MSXML 4.0 SP2 Parser and SDK": {
+    "version": "4.20.9818.0"
+  },
+  "MSXML 4.0 SP3 Parser": {
+    "version": "4.30.2100.0"
+  },
+  "Nero 8": {
+    "version": "8.10.127"
+  },
+  "neroxml": {
+    "version": "1.0.0"
+  },
+  "NetApp OnCommand System Manager 3.1.3": {
+    "version": "3.1.3.9193"
+  },
+  "NetBeans IDE": {
+    "version": 8.2
+  },
+  "NetIQ DRA REST Extensions": {
+    "version": "9.1.1.430"
+  },
+  "Network64": {
+    "version": "140.0.306.000"
+  },
+  "Notepad++ (32-bit x86)": {
+    "version": "7.5.1"
+  },
+  "Notepad++ (64-bit x64)": {
+    "version": 7.5
+  },
+  "Nuance PaperPort 12": {
+    "version": "12.1.0006"
+  },
+  "NVIDIA 3D Vision Controller Driver": {
+    "version": 307.74
+  },
+  "NVIDIA 3D Vision Driver": {
+    "version": 353.62
+  },
+  "NVIDIA Control Panel": {
+    "version": 382.16
+  },
+  "NVIDIA Control Panel 369.09": {
+    "version": 369.09
+  },
+  "NVIDIA Control Panel 372.95": {
+    "version": 372.95
+  },
+  "NVIDIA Display Container": {
+    "version": 1
+  },
+  "NVIDIA Display Container LS": {
+    "version": 1
+  },
+  "NVIDIA Display Session Container": {
+    "version": 1.2
+  },
+  "NVIDIA Display Watchdog Plugin": {
+    "version": 1.2
+  },
+  "NVIDIA Graphics Driver": {
+    "version": 382.16
+  },
+  "NVIDIA HD Audio Driver": {
+    "version": "1.3.34.26"
+  },
+  "NVIDIA Install Application": {
+    "version": "2.1002.175.1474"
+  },
+  "NVIDIA nView": {
+    "version": 146.33
+  },
+  "NVIDIA Optimus Update": {
+    "version": "10.4.0"
+  },
+  "NVIDIA Stereoscopic 3D Driver": {
+    "version": "7.17.12.6514"
+  },
+  "NVIDIA Update": {
+    "version": "10.4.0"
+  },
+  "NVIDIA Update Core": {
+    "version": "2.11.4.0"
+  },
+  "NVIDIA WMI": {
+    "version": "2.22.0"
+  },
+  "OCR Software by I.R.I.S. 14.0": {
+    "version": 14
+  },
+  "OEM Application Profile": {
+    "version": "1.00.0000"
+  },
+  "Online Plug-in": {
+    "version": "14.2.0.10"
+  },
+  "Open XML SDK 2.5 for Microsoft Office": {
+    "version": "2.5.5631"
+  },
+  "OTCnetFirmware": {
+    "version": "2.0.0.6"
+  },
+  "Outils de vérification linguistique 2013 de Microsoft Office - Français": {
+    "version": "15.0.4569.1506"
+  },
+  "Outils de vérification linguistique 2016 de Microsoft Office - Français": {
+    "version": "16.0.4266.1001"
+  },
+  "Panasonic elite Panaboard": {
+    "version": "4.40.000"
+  },
+  "Panasonic elite Panaboard Ink Note Software": {
+    "version": "1.0.0"
+  },
+  "Panasonic elite Panaboard USB Driver": {
+    "version": "1.06.000"
+  },
+  "Panini Universal Installer 4.4.201": {
+    "version": "4.04.201"
+  },
+  "PaperPort Image Printer 64-bit": {
+    "version": "14.00.0000"
+  },
+  "PaperStream Capture": {
+    "version": "1.012.00006"
+  },
+  "PaperStream Capture x64": {
+    "version": "1.00.00003"
+  },
+  "PaperStream IP (TWAIN x64)": {
+    "version": "1.30.0.5032"
+  },
+  "PaperStream IP (TWAIN)": {
+    "version": "1.30.0.5032"
+  },
+  "pcLCOM": {
+    "version": "2.7.7"
+  },
+  "PDF Report Writer (novaPDF 6.4  printer)": {
+    "version": ""
+  },
+  "Photoshop-AF": {
+    "version": "1.0.0"
+  },
+  "PicomClient": {
+    "version": "3.03.341"
+  },
+  "PL-2303 USB-to-Serial": {
+    "version": "1.9.0"
+  },
+  "PL2303 USB-to-Serial": {
+    "version": "1.18.0"
+  },
+  "Prerequisites for SSDT": {
+    "version": "11.0.2100.60"
+  },
+  "Process Simulator 2014 SP5": {
+    "version": "9.2.5.2627"
+  },
+  "Procurement Desktop - Defense": {
+    "version": "PD² v4.2 Increment 2 SR16"
+  },
+  "PS_CC_v2016.1_x32": {
+    "version": "1.0.0"
+  },
+  "PTC Arbortext IsoView 7.3": {
+    "version": "7.3.60.06"
+  },
+  "Pulse Application Launcher": {
+    "version": "8.2.1125"
+  },
+  "Pulse Secure Application Manager": {
+    "version": "8.1.11.54323"
+  },
+  "Pulse Secure Host Checker": {
+    "version": "8.2.9.58917"
+  },
+  "Pulse Secure Setup Client": {
+    "version": "8.2.9.1125"
+  },
+  "Pulse Secure Setup Client 64-bit Activex Control": {
+    "version": "2.1.1.1"
+  },
+  "Pulse Secure Setup Client Activex Control": {
+    "version": "2.1.1.1"
+  },
+  "PuTTY release 0.70 (64-bit)": {
+    "version": "0.70.0.0"
+  },
+  "PX Profile Update": {
+    "version": "1.00.1."
+  },
+  "Python 3.6.4 (32-bit)": {
+    "version": "3.6.4150.0"
+  },
+  "Python 3.6.4 Core Interpreter (32-bit)": {
+    "version": "3.6.4150.0"
+  },
+  "Python 3.6.4 Development Libraries (32-bit)": {
+    "version": "3.6.4150.0"
+  },
+  "Python 3.6.4 Documentation (32-bit)": {
+    "version": "3.6.4150.0"
+  },
+  "Python 3.6.4 Executables (32-bit)": {
+    "version": "3.6.4150.0"
+  },
+  "Python 3.6.4 pip Bootstrap (32-bit)": {
+    "version": "3.6.4150.0"
+  },
+  "Python 3.6.4 Standard Library (32-bit)": {
+    "version": "3.6.4150.0"
+  },
+  "Python 3.6.4 Tcl/Tk Support (32-bit)": {
+    "version": "3.6.4150.0"
+  },
+  "Python 3.6.4 Test Suite (32-bit)": {
+    "version": "3.6.4150.0"
+  },
+  "Python 3.6.4 Utility Scripts (32-bit)": {
+    "version": "3.6.4150.0"
+  },
+  "Python Launcher": {
+    "version": "3.6.6196.0"
+  },
+  "R4i Viewer v8.4": {
+    "version": "8.4.2.6"
+  },
+  "RDM Control Object": {
+    "version": "6.6.4.21"
+  },
+  "Realtek Audio COM Components": {
+    "version": "1.0.2"
+  },
+  "Realtek Card Reader": {
+    "version": "10.0.14393.21292"
+  },
+  "Realtek Ethernet Controller Driver": {
+    "version": "10.2.703.2015"
+  },
+  "Realtek High Definition Audio Driver": {
+    "version": "6.0.1.7746"
+  },
+  "Realtek I2S Audio": {
+    "version": "6.3.9600.107"
+  },
+  "Realtek USB Audio": {
+    "version": "6.3.9600.50"
+  },
+  "Realtek USB Ethernet Controller All-In-One Windows Driver": {
+    "version": "10.12.1007.2016"
+  },
+  "Remote Desktop assistant": {
+    "version": "1.0.0.102"
+  },
+  "Remote Desktop Connection Manager": {
+    "version": "2.7.14060"
+  },
+  "RMTK Weapon Danger Zone (v10.4.1.0.3)": {
+    "version": "11.3.6152"
+  },
+  "Rmtk.Frameworks": {
+    "version": "1.0.7087"
+  },
+  "RMX Manager 8.3": {
+    "version": "8.3.0.44"
+  },
+  "Romexis": {
+    "version": "3.8.3.R"
+  },
+  "Roslyn Language Services - x86": {
+    "version": "14.0.23107"
+  },
+  "Roxio Activation Module": {
+    "version": 1
+  },
+  "Roxio Creator Audio": {
+    "version": "3.5.0"
+  },
+  "Roxio Creator Basic v9": {
+    "version": "3.3.0"
+  },
+  "Roxio Creator Copy": {
+    "version": "3.5.0"
+  },
+  "Roxio Creator Data": {
+    "version": "3.5.0"
+  },
+  "Roxio Creator DE": {
+    "version": "3.5.0"
+  },
+  "Roxio Creator Tools": {
+    "version": "3.5.0"
+  },
+  "Roxio Drag-to-Disc": {
+    "version": 9.1
+  },
+  "Roxio Express Labeler 3": {
+    "version": "3.2.1"
+  },
+  "Roxio MyDVD Basic v9": {
+    "version": "9.0.117"
+  },
+  "Roxio Update Manager": {
+    "version": "6.0.0"
+  },
+  "RTS_NET": {
+    "version": ""
+  },
+  "SAFE Agent": {
+    "version": "1.03.00.26"
+  },
+  "SAFE Servlet": {
+    "version": "7.13.00.11"
+  },
+  "SAFTE-FAST Console": {
+    "version": "1.5.0.131"
+  },
+  "Samsung Universal Scan Driver": {
+    "version": "1.2.19.0"
+  },
+  "SAP BusinessObjects Enterprise XI 3.1 Client Tools SP7": {
+    "version": "12.7.0.1983"
+  },
+  "SAP Crystal Reports runtime engine for .NET Framework (32-bit)": {
+    "version": "13.0.5.891"
+  },
+  "SAP Crystal Reports runtime engine for .NET Framework 4 (32-bit)": {
+    "version": "13.0.1.220"
+  },
+  "Scan": {
+    "version": "140.0.253.000"
+  },
+  "Scanner Central Admin Agent": {
+    "version": "1.04.0020.17"
+  },
+  "Scanner Central Admin Agent 1.4": {
+    "version": "1.04.0020.17"
+  },
+  "Scanner Utility for Microsoft Windows": {
+    "version": "9.11.2.0"
+  },
+  "ScanSnap": {
+    "version": "5.5.10.2"
+  },
+  "ScanSnap Manager": {
+    "version": "6.5.31.1.1"
+  },
+  "ScanSnap Organizer": {
+    "version": "V5.6L10"
+  },
+  "ScanX ILE Drivers and Utilities": {
+    "version": "3.00.0002"
+  },
+  "SCAP Compliance Checker": {
+    "version": 4.2
+  },
+  "SCAP Compliance Checker 4.2": {
+    "version": 4.2
+  },
+  "Schick 33 / Elite USB Interface Driver": {
+    "version": "5.13.463.9409"
+  },
+  "SCL Troubleshooting Tool": {
+    "version": 1
+  },
+  "SDK": {
+    "version": "2.38.024"
+  },
+  "SDK ARM Additions": {
+    "version": "10.1.16299.15"
+  },
+  "SDK ARM Redistributables": {
+    "version": "10.1.16299.15"
+  },
+  "Self-service Plug-in": {
+    "version": "4.10.1.7"
+  },
+  "Sentinel Protection Installer": {
+    "version": "7.6.6"
+  },
+  "Sentinel System Driver Installer": {
+    "version": "7.5.1"
+  },
+  "Sentinel System Driver Installer 7.5.1": {
+    "version": "7.5.1"
+  },
+  "Service Bus 1.0": {
+    "version": "2.0.20922.0"
+  },
+  "Service Bus 1.1": {
+    "version": "2.0.30904.0"
+  },
+  "SES Driver": {
+    "version": "1.0.0"
+  },
+  "Shop for HP Supplies": {
+    "version": 14
+  },
+  "Sierra Wireless (HP lt4111) Mobile Broadband Driver Package": {
+    "version": "6.14.4316.0202"
+  },
+  "Sierra Wireless Dell Mobile Broadband Driver Package": {
+    "version": "7.38.4672.0503"
+  },
+  "Sierra Wireless Dell Mobile Broadband INF Package": {
+    "version": "7.33.4633.0501"
+  },
+  "Sierra Wireless Mobile Broadband Driver Package": {
+    "version": "8.4.4581.0001"
+  },
+  "SketchUp Import": {
+    "version": "1.2.0"
+  },
+  "SketchUp Import 2016": {
+    "version": "2.0.0"
+  },
+  "Skype for Business Web App Plug-in": {
+    "version": "15.8.20020.400"
+  },
+  "SMART Ink": {
+    "version": "5.2.19.0"
+  },
+  "Smart Label Printer 7.1.1 R2": {
+    "version": "7.1.0437"
+  },
+  "SMART Meeting Pro": {
+    "version": "4.3.150.0"
+  },
+  "SMART Product Drivers": {
+    "version": "12.9.210.0"
+  },
+  "SMSC Core Graphics Software": {
+    "version": "5.3.60.6579"
+  },
+  "SMSC LAN9500 Device Driver": {
+    "version": "13.05.14.0"
+  },
+  "Snagit 12": {
+    "version": "12.4.1.3036"
+  },
+  "SNMPWalk 1.0.0.16": {
+    "version": "1.0.0.16"
+  },
+  "Software Operation Panel": {
+    "version": "4.2.9.0"
+  },
+  "Software Updater": {
+    "version": "4.3.7"
+  },
+  "SolarWinds NetFlow Realtime": {
+    "version": "10.7.0.91"
+  },
+  "SolarWinds Orion Network Atlas v1.14.42": {
+    "version": "1.14.42.0"
+  },
+  "SolarWinds SCP Server": {
+    "version": "1.0.1.6"
+  },
+  "SolarWinds Toolset v10.7": {
+    "version": "10.7.0"
+  },
+  "SolutionCenter": {
+    "version": "140.0.299.000"
+  },
+  "Sonic Activation Module": {
+    "version": 1
+  },
+  "Sonic CinePlayer Decoder Pack": {
+    "version": "4.2.0"
+  },
+  "SPECTRUM XXI Client": {
+    "version": "4.2.9"
+  },
+  "sptools_Microsoft.VisualStudio.OfficeDeveloperTools.Msi": {
+    "version": "15.0.26501"
+  },
+  "sptools_Microsoft.VisualStudio.Vsto.Msi": {
+    "version": "15.0.26831"
+  },
+  "sptools_Microsoft.VisualStudio.Vsto.Msi.Resources": {
+    "version": "15.0.26417"
+  },
+  "sptools_Microsoft.VisualStudio.Vsto.Msi.x64": {
+    "version": "15.0.26831"
+  },
+  "SQL Server 2008 R2 Common Files": {
+    "version": "10.50.1600.1"
+  },
+  "SQL Server 2008 R2 Database Engine Services": {
+    "version": "10.50.1600.1"
+  },
+  "SQL Server 2008 R2 Database Engine Shared": {
+    "version": "10.50.1600.1"
+  },
+  "SQL Server 2012 Analysis Services": {
+    "version": "11.3.6020.0"
+  },
+  "SQL Server 2012 BI Development Studio": {
+    "version": "11.3.6020.0"
+  },
+  "SQL Server 2012 Client Tools": {
+    "version": "11.3.6020.0"
+  },
+  "SQL Server 2012 Common Files": {
+    "version": "11.3.6020.0"
+  },
+  "SQL Server 2012 Database Engine Services": {
+    "version": "11.3.6020.0"
+  },
+  "SQL Server 2012 Database Engine Shared": {
+    "version": "11.3.6020.0"
+  },
+  "SQL Server 2012 Full text search": {
+    "version": "11.3.6020.0"
+  },
+  "SQL Server 2012 Integration Services": {
+    "version": "11.3.6020.0"
+  },
+  "SQL Server 2012 Management Studio": {
+    "version": "11.3.6020.0"
+  },
+  "SQL Server 2012 Master Data Services": {
+    "version": "11.3.6020.0"
+  },
+  "SQL Server 2012 Reporting Services": {
+    "version": "11.3.6020.0"
+  },
+  "SQL Server 2012 RS_SharePoint_SharedService": {
+    "version": "11.3.6020.0"
+  },
+  "SQL Server 2012 SQL Data Quality Common": {
+    "version": "11.3.6020.0"
+  },
+  "SQL Server 2016 Analysis Services": {
+    "version": "13.1.4001.0"
+  },
+  "SQL Server 2016 Batch Parser": {
+    "version": "13.0.1601.5"
+  },
+  "SQL Server 2016 Client Tools": {
+    "version": "13.0.14500.10"
+  },
+  "SQL Server 2016 Client Tools Extensions": {
+    "version": "13.0.1601.5"
+  },
+  "SQL Server 2016 Common Files": {
+    "version": "13.1.4001.0"
+  },
+  "SQL Server 2016 Connection Info": {
+    "version": "13.0.14500.10"
+  },
+  "SQL Server 2016 Data quality client": {
+    "version": "13.0.1601.5"
+  },
+  "SQL Server 2016 Data quality service": {
+    "version": "13.0.1601.5"
+  },
+  "SQL Server 2016 Database Engine Services": {
+    "version": "13.1.4001.0"
+  },
+  "SQL Server 2016 Database Engine Shared": {
+    "version": "13.1.4001.0"
+  },
+  "SQL Server 2016 DMF": {
+    "version": "13.0.1601.5"
+  },
+  "SQL Server 2016 Documentation Components": {
+    "version": "13.0.1601.5"
+  },
+  "SQL Server 2016 Full text search": {
+    "version": "13.1.4001.0"
+  },
+  "SQL Server 2016 Integration Services": {
+    "version": "13.1.4001.0"
+  },
+  "SQL Server 2016 Master Data Services": {
+    "version": "13.1.4001.0"
+  },
+  "SQL Server 2016 RS_SharePoint_SharedService": {
+    "version": "13.1.4001.0"
+  },
+  "SQL Server 2016 Shared Management Objects": {
+    "version": "13.0.14500.10"
+  },
+  "SQL Server 2016 Shared Management Objects Extensions": {
+    "version": "13.0.1601.5"
+  },
+  "SQL Server 2016 SQL Data Quality Common": {
+    "version": "13.1.4001.0"
+  },
+  "SQL Server 2016 SQL Diagnostics": {
+    "version": "13.0.1601.5"
+  },
+  "SQL Server 2016 XEvent": {
+    "version": "13.0.1601.5"
+  },
+  "SQL Server 2017 Analysis Services": {
+    "version": "14.0.1000.169"
+  },
+  "SQL Server 2017 Batch Parser": {
+    "version": "14.0.1000.169"
+  },
+  "SQL Server 2017 Client Tools": {
+    "version": "14.0.1000.169"
+  },
+  "SQL Server 2017 Client Tools Extensions": {
+    "version": "14.0.1000.169"
+  },
+  "SQL Server 2017 Common Files": {
+    "version": "14.0.1000.169"
+  },
+  "SQL Server 2017 Connection Info": {
+    "version": "14.0.1000.169"
+  },
+  "SQL Server 2017 Data quality client": {
+    "version": "14.0.1000.169"
+  },
+  "SQL Server 2017 Data quality service": {
+    "version": "14.0.1000.169"
+  },
+  "SQL Server 2017 Database Engine Services": {
+    "version": "14.0.1000.169"
+  },
+  "SQL Server 2017 Database Engine Shared": {
+    "version": "14.0.1000.169"
+  },
+  "SQL Server 2017 DMF": {
+    "version": "14.0.1000.169"
+  },
+  "SQL Server 2017 Full text search": {
+    "version": "14.0.1000.169"
+  },
+  "SQL Server 2017 Integration Services": {
+    "version": "14.0.1000.169"
+  },
+  "SQL Server 2017 Integration Services Scale Out Management Portal": {
+    "version": "14.0.1000.169"
+  },
+  "SQL Server 2017 Management Studio Extensions": {
+    "version": "14.0.3006.16"
+  },
+  "SQL Server 2017 Master Data Services": {
+    "version": "14.0.3015.40"
+  },
+  "SQL Server 2017 Shared Management Objects": {
+    "version": "14.0.1000.169"
+  },
+  "SQL Server 2017 Shared Management Objects Extensions": {
+    "version": "14.0.1000.169"
+  },
+  "SQL Server 2017 SQL Data Quality Common": {
+    "version": "14.0.1000.169"
+  },
+  "SQL Server 2017 SQL Diagnostics": {
+    "version": "14.0.1000.169"
+  },
+  "SQL Server 2017 XEvent": {
+    "version": "14.0.1000.169"
+  },
+  "Sql Server Customer Experience Improvement Program": {
+    "version": "13.1.4001.0"
+  },
+  "SQL Server Management Studio": {
+    "version": "14.0.17213.0"
+  },
+  "SQL Server Management Studio for Analysis Services": {
+    "version": "14.0.17213.0"
+  },
+  "SQL Server Management Studio for Reporting Services": {
+    "version": "14.0.17213.0"
+  },
+  "SSMS Post Install Tasks": {
+    "version": "14.0.17213.0"
+  },
+  "Status": {
+    "version": "140.0.342.000"
+  },
+  "Surface Platform Installer": {
+    "version": "17.010.01.0"
+  },
+  "swMSM": {
+    "version": "12.0.0.1"
+  },
+  "Symantec Backup Exec (Service Pack 1)": {
+    "version": ""
+  },
+  "Synaptics Pointing Device Driver": {
+    "version": "19.3.8.15"
+  },
+  "Tanium Client": {
+    "version": "6.0.314.1540"
+  },
+  "Tanium Client 6.0.314.1540": {
+    "version": "6.0.314.1540"
+  },
+  "Tanium Client Installer": {
+    "version": "1.0.0"
+  },
+  "TCMax": {
+    "version": "8.10.588"
+  },
+  "Team Foundation Server 2018": {
+    "version": "16.122.27102.1"
+  },
+  "TeamMate R11.2 Desktop Update 2": {
+    "version": "11.2.2.0"
+  },
+  "Tech Order Sync": {
+    "version": "3.1.5"
+  },
+  "Thunderbolt(TM) Software": {
+    "version": "16.2.55.275"
+  },
+  "TMI ACD Agent Module": {
+    "version": 3
+  },
+  "TMI ACD Monitor Module": {
+    "version": 3
+  },
+  "TMI DigiSIP Module NotSvc -- .NET": {
+    "version": ""
+  },
+  "TMI Network Module": {
+    "version": ""
+  },
+  "TMI PhoneGroups Centralized Operator Console -- .NET": {
+    "version": ""
+  },
+  "TMI T-Metrics Namespace": {
+    "version": 3.5
+  },
+  "TMT Button for Outlook": {
+    "version": "2.0.0.0"
+  },
+  "TOLD CC (32 bit)": {
+    "version": "2.2.0.0028"
+  },
+  "Toolbox": {
+    "version": "140.0.596.000"
+  },
+  "ToolboxProxy": {
+    "version": "035.024.006"
+  },
+  "Toolkit Documentation": {
+    "version": "10.1.14393.0"
+  },
+  "Tools for .Net 3.5": {
+    "version": "3.11.50727"
+  },
+  "TransVerse v1.9.0.2 Build836": {
+    "version": ""
+  },
+  "TransVerse v1.9.0.6 Build 952": {
+    "version": ""
+  },
+  "TrayApp": {
+    "version": "140.0.297.000"
+  },
+  "Trigger External Graphics Family": {
+    "version": "17.02.0516.0179"
+  },
+  "TypeScript SDK": {
+    "version": "2.5.4.0"
+  },
+  "Uninstall Samsung Printer Software": {
+    "version": "4.0.0.67"
+  },
+  "Unity Web Player": {
+    "version": "5.3.4f1"
+  },
+  "Universal CRT Extension SDK": {
+    "version": "10.1.16299.15"
+  },
+  "Universal CRT Headers Libraries and Sources": {
+    "version": "10.1.16299.15"
+  },
+  "Universal CRT Redistributable": {
+    "version": "10.1.16299.15"
+  },
+  "Universal CRT Tools x64": {
+    "version": "10.1.16299.15"
+  },
+  "Universal CRT Tools x86": {
+    "version": "10.1.16299.15"
+  },
+  "Universal General MIDI DLS Extension SDK": {
+    "version": "10.1.16299.15"
+  },
+  "UpdateAssistant": {
+    "version": "1.15.0.0"
+  },
+  "USAF vESD": {
+    "version": "3.4.6613"
+  },
+  "vcpp_crt.redist.clickonce": {
+    "version": "14.12.25830"
+  },
+  "VCRedistSetup": {
+    "version": "1.0.0"
+  },
+  "VD64Inst": {
+    "version": "1.00.0000"
+  },
+  "Vidyo Desktop": {
+    "version": 3
+  },
+  "ViewSpan": {
+    "version": "2.8.3.0"
+  },
+  "Visual Studio 2010 Prerequisites - English": {
+    "version": "10.0.40219"
+  },
+  "Visual Studio 2015 Prerequisites": {
+    "version": "14.0.23107"
+  },
+  "Visual Studio 2015 Prerequisites - ENU Language Pack": {
+    "version": "14.0.23107"
+  },
+  "Visual Studio Professional 2017": {
+    "version": "15.5.27130.2010"
+  },
+  "Visual Studio Tools for the Office system 3.0 Runtime": {
+    "version": ""
+  },
+  "VLC media player": {
+    "version": "2.0.6"
+  },
+  "VLC media player 2.0.6": {
+    "version": "2.0.6"
+  },
+  "VMware Client Integration Plug-in 5.6.0": {
+    "version": "5.6.0.3907574"
+  },
+  "VMware Client Integration Plug-in 6.0.0": {
+    "version": "6.0.0.6823256"
+  },
+  "VMware Remote Console": {
+    "version": "10.0.2"
+  },
+  "VMware vSphere Client 5.1": {
+    "version": "5.1.0.6443"
+  },
+  "VMware vSphere Client 5.5": {
+    "version": "5.5.0.6632"
+  },
+  "VMware vSphere Client 6.0": {
+    "version": "6.0.0.7430"
+  },
+  "VMware vSphere Update Manager Client 5.5 Update 3e": {
+    "version": "5.5.0.32413"
+  },
+  "VS Immersive Activate Helper": {
+    "version": "16.0.76.0"
+  },
+  "VS JIT Debugger": {
+    "version": "16.0.76.0"
+  },
+  "VS Script Debugging Common": {
+    "version": "16.0.76.0"
+  },
+  "VS WCF Debugging": {
+    "version": "16.0.76.0"
+  },
+  "VS2010MergeModule": {
+    "version": "1.00.0000"
+  },
+  "vs_BlendMsi": {
+    "version": "15.0.27005"
+  },
+  "vs_clickoncebootstrappermsi": {
+    "version": "15.0.27005"
+  },
+  "vs_clickoncebootstrappermsires": {
+    "version": "15.0.27005"
+  },
+  "vs_clickoncesigntoolmsi": {
+    "version": "15.0.27005"
+  },
+  "vs_communitymsi": {
+    "version": "15.0.27102"
+  },
+  "vs_communitymsires": {
+    "version": "15.0.26621"
+  },
+  "vs_devenvmsi": {
+    "version": "15.0.26621"
+  },
+  "vs_filehandler_amd64": {
+    "version": "15.0.27005"
+  },
+  "vs_filehandler_x86": {
+    "version": "15.0.27005"
+  },
+  "vs_FileTracker_Singleton": {
+    "version": "15.0.27005"
+  },
+  "vs_Graphics_Singletonx64": {
+    "version": "15.0.27005"
+  },
+  "vs_Graphics_Singletonx86": {
+    "version": "15.0.27005"
+  },
+  "vs_minshellinteropmsi": {
+    "version": "15.0.27102"
+  },
+  "vs_minshellmsi": {
+    "version": "15.0.27019"
+  },
+  "vs_minshellmsires": {
+    "version": "15.0.26621"
+  },
+  "vs_professionalmsi": {
+    "version": "15.0.26621"
+  },
+  "vs_SQLClickOnceBootstrappermsi": {
+    "version": "15.0.27005"
+  },
+  "vs_tipsmsi": {
+    "version": "15.0.27005"
+  },
+  "VSL Utilities": {
+    "version": "4.3.1.839"
+  },
+  "Vulkan Run Time Libraries": {
+    "version": "1.0.42.1"
+  },
+  "Vulkan Run Time Libraries 1.0.54.1": {
+    "version": "1.0.54.1"
+  },
+  "VUWin60": {
+    "version": 6.03
+  },
+  "Wacom Pen": {
+    "version": "7.3.1-1"
+  },
+  "WCF Data Services 5.6 Tools": {
+    "version": "5.6.61587.0"
+  },
+  "WCF Data Services 5.6.0 CHS Language Pack": {
+    "version": "5.6.61587.0"
+  },
+  "WCF Data Services 5.6.0 CHT Language Pack": {
+    "version": "5.6.61587.0"
+  },
+  "WCF Data Services 5.6.0 DEU Language Pack": {
+    "version": "5.6.61587.0"
+  },
+  "WCF Data Services 5.6.0 ESN Language Pack": {
+    "version": "5.6.61587.0"
+  },
+  "WCF Data Services 5.6.0 FRA Language Pack": {
+    "version": "5.6.61587.0"
+  },
+  "WCF Data Services 5.6.0 ITA Language Pack": {
+    "version": "5.6.61587.0"
+  },
+  "WCF Data Services 5.6.0 JPN Language Pack": {
+    "version": "5.6.61587.0"
+  },
+  "WCF Data Services 5.6.0 KOR Language Pack": {
+    "version": "5.6.61587.0"
+  },
+  "WCF Data Services 5.6.0 Runtime": {
+    "version": "5.6.61587.0"
+  },
+  "WCF Data Services 5.6.0 RUS Language Pack": {
+    "version": "5.6.61587.0"
+  },
+  "WebReg": {
+    "version": "140.0.297.017"
+  },
+  "WinAppDeploy": {
+    "version": "10.1.16299.15"
+  },
+  "Windows 10 Update and Privacy Settings": {
+    "version": "1.0.14.0"
+  },
+  "Windows 10 Update Assistant": {
+    "version": "1.4.9200.22350"
+  },
+  "Windows 7 USB/DVD Download Tool": {
+    "version": "1.0.30"
+  },
+  "Windows App Certification Kit Native Components": {
+    "version": "10.1.16299.15"
+  },
+  "Windows App Certification Kit SupportedApiList x86": {
+    "version": "10.1.16299.15"
+  },
+  "Windows App Certification Kit x64": {
+    "version": "10.1.16299.15"
+  },
+  "Windows Assessment and Deployment Kit - Windows 10": {
+    "version": "10.1.14393.0"
+  },
+  "Windows Deployment Customizations": {
+    "version": "10.1.14393.0"
+  },
+  "Windows Deployment Tools": {
+    "version": "10.1.14393.0"
+  },
+  "Windows Desktop Extension SDK": {
+    "version": "10.1.16299.15"
+  },
+  "Windows Desktop Extension SDK Contracts": {
+    "version": "10.1.16299.15"
+  },
+  "Windows Driver Package - Atmel HIDClass  ()": {
+    "version": "03/19/2014 1.7.0.7"
+  },
+  "Windows Driver Package - Hewlett-Packard hp scanjet 8200 series ()": {
+    "version": "10/23/2014 8.1.0.77"
+  },
+  "Windows Driver Package - Lexmark International Printer  ()": {
+    "version": "01/10/2016 2.12.0.0"
+  },
+  "Windows Driver Package - Lexmark International Printer  (01/28/2016 2.2.0.0)": {
+    "version": "01/28/2016 2.2.0.0"
+  },
+  "Windows Driver Package - Planmeca Oy (ProSensor_Enumdrv) USB  ()": {
+    "version": "03/22/2009 2.0.0.70"
+  },
+  "Windows Driver Package - Western Digital Technologies (WDC_SAM) WDC_SAM  ()": {
+    "version": "01/19/2011 1.0.0009.0"
+  },
+  "Windows Fabric": {
+    "version": "1.0.976.0"
+  },
+  "Windows IoT Extension SDK": {
+    "version": "10.1.16299.15"
+  },
+  "Windows IoT Extension SDK Contracts": {
+    "version": "10.1.16299.15"
+  },
+  "Windows IP Over USB": {
+    "version": "10.1.16299.15"
+  },
+  "Windows Mobile Device Center": {
+    "version": "6.1.6965.0"
+  },
+  "Windows Mobile Device Center Driver Update": {
+    "version": "6.1.6965.0"
+  },
+  "Windows Mobile Extension SDK": {
+    "version": "10.1.16299.15"
+  },
+  "Windows Mobile Extension SDK Contracts": {
+    "version": "10.1.16299.15"
+  },
+  "Windows PE x86 x64": {
+    "version": "10.1.14393.0"
+  },
+  "Windows PE x86 x64 wims": {
+    "version": "10.1.14393.0"
+  },
+  "Windows Resource Kit Tools": {
+    "version": "5.2.3790"
+  },
+  "Windows SDK": {
+    "version": "10.1.16299.15"
+  },
+  "Windows SDK AddOn": {
+    "version": "10.1.0.0"
+  },
+  "Windows SDK ARM Desktop Tools": {
+    "version": "10.1.16299.15"
+  },
+  "Windows SDK Desktop Headers arm": {
+    "version": "10.1.16299.15"
+  },
+  "Windows SDK Desktop Headers arm64": {
+    "version": "10.1.16299.15"
+  },
+  "Windows SDK Desktop Headers x64": {
+    "version": "10.1.16299.15"
+  },
+  "Windows SDK Desktop Headers x86": {
+    "version": "10.1.16299.15"
+  },
+  "Windows SDK Desktop Libs arm": {
+    "version": "10.1.16299.15"
+  },
+  "Windows SDK Desktop Libs arm64": {
+    "version": "10.1.16299.15"
+  },
+  "Windows SDK Desktop Libs x64": {
+    "version": "10.1.16299.15"
+  },
+  "Windows SDK Desktop Libs x86": {
+    "version": "10.1.16299.15"
+  },
+  "Windows SDK Desktop Tools arm64": {
+    "version": "10.1.16299.15"
+  },
+  "Windows SDK Desktop Tools x64": {
+    "version": "10.1.16299.15"
+  },
+  "Windows SDK Desktop Tools x86": {
+    "version": "10.1.16299.15"
+  },
+  "Windows SDK DirectX x64 Remote": {
+    "version": "10.1.16299.15"
+  },
+  "Windows SDK DirectX x86 Remote": {
+    "version": "10.1.16299.15"
+  },
+  "Windows SDK EULA": {
+    "version": "10.1.16299.15"
+  },
+  "Windows SDK Facade Windows WinMD versioned": {
+    "version": "10.1.16299.15"
+  },
+  "Windows SDK for Windows Store Apps": {
+    "version": "10.1.16299.15"
+  },
+  "Windows SDK for Windows Store Apps Contracts": {
+    "version": "10.1.16299.15"
+  },
+  "Windows SDK for Windows Store Apps DirectX x64 Remote": {
+    "version": "10.1.16299.15"
+  },
+  "Windows SDK for Windows Store Apps DirectX x86 Remote": {
+    "version": "10.1.16299.15"
+  },
+  "Windows SDK for Windows Store Apps Headers": {
+    "version": "10.1.16299.15"
+  },
+  "Windows SDK for Windows Store Apps Libs": {
+    "version": "10.1.16299.15"
+  },
+  "Windows SDK for Windows Store Apps Metadata": {
+    "version": "10.1.16299.15"
+  },
+  "Windows SDK for Windows Store Apps Tools": {
+    "version": "10.1.16299.15"
+  },
+  "Windows SDK for Windows Store Managed Apps Libs": {
+    "version": "10.1.16299.15"
+  },
+  "Windows SDK Modern Non-versioned Developer Tools": {
+    "version": "10.1.16299.15"
+  },
+  "Windows SDK Modern versioned Developer Tools": {
+    "version": "10.1.16299.15"
+  },
+  "Windows SDK Redistributables": {
+    "version": "10.1.16299.15"
+  },
+  "Windows SDK Signing Tools": {
+    "version": "10.1.16299.15"
+  },
+  "Windows Software Development Kit - Windows 10.0.16299.15": {
+    "version": "10.1.16299.15"
+  },
+  "Windows System Image Manager on amd64": {
+    "version": "10.1.14393.0"
+  },
+  "Windows Team Extension SDK": {
+    "version": "10.1.16299.15"
+  },
+  "Windows Team Extension SDK Contracts": {
+    "version": "10.1.16299.15"
+  },
+  "WinFull_64": {
+    "version": "1.2.0000"
+  },
+  "WinPcap 4.1.2": {
+    "version": "4.1.0.2001"
+  },
+  "WinRAR 5.60 beta 2 (64-bit)": {
+    "version": "5.60.2"
+  },
+  "WinRAR archiver": {
+    "version": ""
+  },
+  "WinRT Intellisense Desktop - en-us": {
+    "version": "10.1.16299.15"
+  },
+  "WinRT Intellisense Desktop - Other Languages": {
+    "version": "10.1.16299.15"
+  },
+  "WinRT Intellisense IoT - en-us": {
+    "version": "10.1.16299.15"
+  },
+  "WinRT Intellisense IoT - Other Languages": {
+    "version": "10.1.16299.15"
+  },
+  "WinRT Intellisense Mobile - en-us": {
+    "version": "10.1.16299.15"
+  },
+  "WinRT Intellisense PPI - en-us": {
+    "version": "10.1.16299.15"
+  },
+  "WinRT Intellisense PPI - Other Languages": {
+    "version": "10.1.16299.15"
+  },
+  "WinRT Intellisense UAP - en-us": {
+    "version": "10.1.16299.15"
+  },
+  "WinRT Intellisense UAP - Other Languages": {
+    "version": "10.1.16299.15"
+  },
+  "WinSCP 5.11.3": {
+    "version": "5.11.3"
+  },
+  "Wireless Radio Switch Driver": {
+    "version": "2.0.0.0"
+  },
+  "Wireshark 2.4.3 32-bit": {
+    "version": "2.4.3"
+  },
+  "Workflow Manager 1.0": {
+    "version": "2.0.40131.0"
+  },
+  "Workflow Manager Client 1.0": {
+    "version": "2.1.10607.2"
+  },
+  "Workflow Manager Tools 1.0 for Visual Studio": {
+    "version": "2.1.10713.0"
+  },
+  "XC2 2K11 Server": {
+    "version": ""
+  },
+  "Xerox DocuMate 152 Driver": {
+    "version": "4.6.15706"
+  }
+}

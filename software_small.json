@@ -1,0 +1,503 @@
+{
+  "1Q-9(M)A-2-DB-1 LiveContent": {
+    "version": "1.08.0000"
+  },
+  "64 Bit HP CIO Components Installer": {
+    "version": "2.2.4"
+  },
+  "6500_E709_eDocs": {
+    "version": "1.00.0000"
+  },
+  "7-Zip  (x64)": {
+    "version": 16.04
+  },
+  "7-Zip 16.04": {
+    "version": 16.04
+  },
+  "7-Zip 16.04 (x64)": {
+    "version": 16.04
+  },
+  "7-Zip 18.03 (x64 edition)": {
+    "version": "18.03.00.0"
+  },
+  "ABBYY FineReader for ScanSnap (TM) 4.1": {
+    "version": "8.02.650.72520"
+  },
+  "ABBYY FineReader for ScanSnap (TM) 5.0": {
+    "version": "11.0.234"
+  },
+  "ACA & MEP 2016 Object Enabler": {
+    "version": "7.8.44.0"
+  },
+  "ACCM": {
+    "version": "3.0.5.4"
+  },
+  "ACP Application": {
+    "version": "2.15.30.0019"
+  },
+  "ACS Remote Connect - Win7": {
+    "version": "2.00.0000"
+  },
+  "ActivClient CAC x64": {
+    "version": 6.2
+  },
+  "ActivClient CAC x86": {
+    "version": 6.2
+  },
+  "ActivClient x64": {
+    "version": "7.0.2"
+  },
+  "Active Directory Authentication Library for SQL Server": {
+    "version": "13.1.4001.0"
+  },
+  "Active Directory Rights Management Services Client 2.1": {
+    "version": "1.0.3356.1108"
+  },
+  "ActivID ActivClient x64": {
+    "version": "7.1.0"
+  },
+  "AD LDS Instance AREA52": {
+    "version": ""
+  },
+  "AD LDS Instance instance1": {
+    "version": ""
+  },
+  "AD LDS Instance instance2": {
+    "version": ""
+  },
+  "ADIS": {
+    "version": "1.9.7.6"
+  },
+  "ADIS 1.9": {
+    "version": "1.9.7.6"
+  },
+  "Adobe Acrobat DC": {
+    "version": "15.006.30279"
+  },
+  "Adobe Acrobat DC (2015)": {
+    "version": "15.006.30417"
+  },
+  "Adobe Acrobat XI Pro": {
+    "version": 11
+  },
+  "Adobe After Effects CC": {
+    "version": 12.1
+  },
+  "Adobe AIR": {
+    "version": "28.0.0.127"
+  },
+  "Adobe Audition CC": {
+    "version": 6
+  },
+  "Adobe Bridge CC (64 Bit)": {
+    "version": 6
+  },
+  "Adobe Dreamweaver CC": {
+    "version": 13
+  },
+  "Adobe Edge Animate CC": {
+    "version": "2.0.1"
+  },
+  "Adobe Exchange Panel": {
+    "version": 1
+  },
+  "Adobe ExtendScript Toolkit CC": {
+    "version": "4.0.0.0"
+  },
+  "Adobe Extension Manager CC": {
+    "version": "7.3.2"
+  },
+  "Adobe Fireworks CS6": {
+    "version": "12.0.1"
+  },
+  "Adobe Flash Builder  (64 Bit)": {
+    "version": 4.7
+  },
+  "Adobe Flash Player 25 NPAPI": {
+    "version": "25.0.0.127"
+  },
+  "Adobe Flash Player 26 ActiveX": {
+    "version": "26.0.0.137"
+  },
+  "Adobe Flash Player 26 NPAPI": {
+    "version": "26.0.0.151"
+  },
+  "Adobe Flash Player 26 PPAPI": {
+    "version": "26.0.0.137"
+  },
+  "Adobe Flash Player 27 NPAPI": {
+    "version": "27.0.0.183"
+  },
+  "Adobe Flash Player 28 NPAPI": {
+    "version": "28.0.0.137"
+  },
+  "Adobe Flash Player 28 PPAPI": {
+    "version": "28.0.0.137"
+  },
+  "Adobe Flash Player 29 NPAPI": {
+    "version": "29.0.0.113"
+  },
+  "Adobe Flash Player 29 PPAPI": {
+    "version": "29.0.0.113"
+  },
+  "Adobe Flash Professional CC": {
+    "version": 13
+  },
+  "Adobe Illustrator CC": {
+    "version": 17
+  },
+  "Adobe Illustrator CC 2015": {
+    "version": "19.2.1"
+  },
+  "Adobe InCopy CC": {
+    "version": 9
+  },
+  "Adobe InCopy CC 2015": {
+    "version": "11.0.1.105"
+  },
+  "Adobe InDesign CC": {
+    "version": 9
+  },
+  "Adobe InDesign CC 2015": {
+    "version": "11.3.0.034"
+  },
+  "Adobe Lightroom": {
+    "version": "6.5.1"
+  },
+  "Adobe LiveCycle Designer ES4": {
+    "version": 11
+  },
+  "Adobe Muse": {
+    "version": 7
+  },
+  "Adobe PDF iFilter 11 for 64-bit platforms": {
+    "version": "11.0.00"
+  },
+  "Adobe Photoshop CC 2015": {
+    "version": 16
+  },
+  "Adobe Photoshop CC 2015 (32 Bit)": {
+    "version": "16.1.2"
+  },
+  "Adobe Prelude CC": {
+    "version": 2.1
+  },
+  "Adobe Premiere Pro CC": {
+    "version": 7.1
+  },
+  "Adobe Reader X ()": {
+    "version": "10.1.2"
+  },
+  "Adobe Reader XI ()": {
+    "version": "11.0.06"
+  },
+  "Adobe Refresh Manager": {
+    "version": "1.8.0"
+  },
+  "Adobe Shockwave Player 12.2": {
+    "version": "12.2.8.198"
+  },
+  "Adobe Shockwave Player 12.3": {
+    "version": "12.3.1.201"
+  },
+  "Adobe SpeedGrade CC": {
+    "version": 7.1
+  },
+  "Adobe SVG Viewer": {
+    "version": 3
+  },
+  "AGFA IMPAX Client": {
+    "version": "6.3.1.7004"
+  },
+  "AHLTA": {
+    "version": "3.8.0.316 Release 49.07"
+  },
+  "AHLTA 3.3.8": {
+    "version": "3.8.0.316"
+  },
+  "AHLTA 3.3.8 CF 10.1 HAIMS 2.18.5 MEDCIN 4th Quarter 2016 R1 (16 Nov 2016)": {
+    "version": "3.8.0.316"
+  },
+  "AHLTA 3.3.8 CF 9.1 HAIMS 2.18.5  MEDCIN 4th Quarter 2016 R1 (16 Nov 2016).": {
+    "version": "3.8.0.316"
+  },
+  "Alcor Micro Smart Card Reader Driver": {
+    "version": "1.7.44.0"
+  },
+  "AMD Accelerated Video Transcoding": {
+    "version": "13.30.100.40612"
+  },
+  "AMD Catalyst Control Center": {
+    "version": "2014.0612.1049.17486"
+  },
+  "AMD Catalyst Install Manager": {
+    "version": "8.0.915.0"
+  },
+  "AMD Drag and Drop Transcoding": {
+    "version": "2.00.0000"
+  },
+  "AMD FirePro Control Center": {
+    "version": "2017.0130.1123.20418"
+  },
+  "AMD FirePro Settings": {
+    "version": "2016.0916.1515.27418"
+  },
+  "AMD Fuel": {
+    "version": "2014.0612.1049.17486"
+  },
+  "AMD Install Manager": {
+    "version": "9.0.000.4"
+  },
+  "AMD Problem Report Wizard": {
+    "version": "8.0.916.0"
+  },
+  "AMD Quick Stream": {
+    "version": "4.0.0.0"
+  },
+  "AMD Radeon Pro and AMD FirePro Settings": {
+    "version": "2017.0413.1040.19176"
+  },
+  "AMD Radeon Settings": {
+    "version": "2017.0904.1217.20281"
+  },
+  "AMD Settings": {
+    "version": "2017.0413.1040.19176"
+  },
+  "AMD Settings - Branding": {
+    "version": "1.00.0000"
+  },
+  "AMD Software": {
+    "version": "9.0.000.8"
+  },
+  "AMD Start Now": {
+    "version": "2016.0916.1515.27418"
+  },
+  "AMD Steady Video Plug-In": {
+    "version": "2.07.0000"
+  },
+  "AppFabric 1.1 for Windows Server": {
+    "version": "1.1.2106.32"
+  },
+  "Apple Application Support (32-bit)": {
+    "version": 5.5
+  },
+  "Apple Application Support (64-bit)": {
+    "version": 5.5
+  },
+  "Application Verifier x64 External Package": {
+    "version": "10.1.16299.15"
+  },
+  "Ar-Photoshop-2015-Jul-64": {
+    "version": "1.0.0"
+  },
+  "Arbortext IsoView 7.0": {
+    "version": "7.0.40.07"
+  },
+  "ArcGIS 10.1 Engine": {
+    "version": "10.1.3035"
+  },
+  "ArcGIS 10.3.1 Data Reviewer for Desktop": {
+    "version": "10.3.4530"
+  },
+  "ArcGIS 10.3.1 for Desktop": {
+    "version": "10.3.4959"
+  },
+  "ArcGIS 10.3.1 for Desktop Feature Service Sync Performance Patch": {
+    "version": ""
+  },
+  "ArcGIS 10.3.1 for Desktop Feature Service Sync Performance Patch B": {
+    "version": ""
+  },
+  "ArcGIS 10.3.1 for Desktop Geocoding General Maintenance Patch": {
+    "version": ""
+  },
+  "ArcGIS 10.3.1 for Desktop Georeferencing CAD Data Patch": {
+    "version": ""
+  },
+  "ArcGIS 10.3.1 for Desktop Licensed File Geodatabase Patch": {
+    "version": ""
+  },
+  "ArcGIS 10.3.1 for Desktop Parcel Fabric General Maintenance Update Patch": {
+    "version": ""
+  },
+  "ArcGIS 10.3.1 for Desktop Raster Type Cumulative Patch": {
+    "version": ""
+  },
+  "ArcGIS 10.3.1 for Desktop Raster Type Cumulative Patch B": {
+    "version": ""
+  },
+  "ArcGIS 10.3.1 for Desktop WMTS Tiles Misalignment Patch": {
+    "version": ""
+  },
+  "ArcGIS 10.4.1 for Desktop": {
+    "version": "10.4.5686"
+  },
+  "ARM\\WDC": {
+    "version": "3.0.5\\1.1.4"
+  },
+  "Asmedia USB Host Controller Driver": {
+    "version": "1.16.43.1"
+  },
+  "ASUS Product Register Program": {
+    "version": "1.0.030"
+  },
+  "AtHocACC": {
+    "version": "6.2.10.263"
+  },
+  "AtHocUSAF": {
+    "version": "6.2.27.271"
+  },
+  "Atmel TouchScreen Power Management": {
+    "version": "1.7.0.7"
+  },
+  "Attachmate Reflection CHCS Companion with Public Keys": {
+    "version": "14.0.000"
+  },
+  "Attachmate Reflection for UNIX and OpenVMS 14.1": {
+    "version": "14.1.0133"
+  },
+  "Audio Controls Application": {
+    "version": "3.0.54.4"
+  },
+  "AutoCAD 2015 - English": {
+    "version": "20.0.51.0"
+  },
+  "AutoCAD 2015 Language Pack - English": {
+    "version": "20.0.51.0"
+  },
+  "AutoCAD 2016": {
+    "version": "20.1.49.0"
+  },
+  "AutoCAD 2016 Language Pack - English": {
+    "version": "20.1.49.0"
+  },
+  "AutoCAD Architecture 2016 Language Shared - English": {
+    "version": "7.8.44.0"
+  },
+  "AutoCAD Architecture 2016 Shared": {
+    "version": "7.8.44.0"
+  },
+  "AutoCAD Civil 3D Matterhorn Private Pack": {
+    "version": "10.5.604.0"
+  },
+  "Autodesk 360": {
+    "version": "5.0.27.1100"
+  },
+  "Autodesk App Manager": {
+    "version": "1.2.0"
+  },
+  "Autodesk App Manager 2016": {
+    "version": "2.0.0"
+  },
+  "Autodesk Application Manager": {
+    "version": "4.0.69.0"
+  },
+  "Autodesk AutoCAD 2015 - English": {
+    "version": "20.0.51.0"
+  },
+  "Autodesk AutoCAD Civil 3D 2016": {
+    "version": "10.5.604.0"
+  },
+  "Autodesk AutoCAD Civil 3D 2016 - English": {
+    "version": "10.5.604.0"
+  },
+  "Autodesk AutoCAD Civil 3D 2016 32 Bit Object Enabler on Autodesk Storm and Sanitary Analysis 2016 - Language Neutral": {
+    "version": 604
+  },
+  "Autodesk AutoCAD Civil 3D 2016 Language Pack - English": {
+    "version": "10.5.604.0"
+  },
+  "Autodesk AutoCAD Map 3D 2016": {
+    "version": "19.0.020.16"
+  },
+  "Autodesk AutoCAD Map 3D 2016 Language Pack - English": {
+    "version": "19.0.020.16"
+  },
+  "Autodesk AutoCAD Performance Feedback Tool 1.2.4": {
+    "version": "1.2.4.0"
+  },
+  "Autodesk AutoCAD Performance Feedback Tool version 1.2.2": {
+    "version": "1.2.2.0"
+  },
+  "Autodesk BIM 360 Glue AutoCAD 2015 Add-in 64 bit": {
+    "version": "3.32.3004"
+  },
+  "Autodesk BIM 360 Glue AutoCAD 2016 Add-in 64 bit": {
+    "version": "4.35.1742"
+  },
+  "Autodesk Content Service": {
+    "version": "3.2.0.0"
+  },
+  "Autodesk Content Service Language Pack": {
+    "version": "3.2.0.0"
+  },
+  "Autodesk Design Review 2013": {
+    "version": "13.0.0.82"
+  },
+  "Autodesk Featured Apps": {
+    "version": "1.2.0"
+  },
+  "Autodesk Featured Apps 2016": {
+    "version": "2.0.0"
+  },
+  "Autodesk Material Library 2015": {
+    "version": "5.2.9.100"
+  },
+  "Autodesk Material Library 2016": {
+    "version": "6.3.0.15"
+  },
+  "Autodesk Material Library Base Resolution Image Library 2015": {
+    "version": "5.2.9.100"
+  },
+  "Autodesk Material Library Base Resolution Image Library 2016": {
+    "version": "6.3.0.15"
+  },
+  "Autodesk Network License Manager": {
+    "version": "11.12.0"
+  },
+  "Autodesk ReCap": {
+    "version": "1.3.1.39"
+  },
+  "Autodesk Storm and Sanitary Analysis 2016": {
+    "version": "10.1.53"
+  },
+  "Autodesk Storm and Sanitary Analysis 2016 x64 Plug-in": {
+    "version": "10.1.53"
+  },
+  "Autodesk Subassembly Composer on Autodesk AutoCAD Civil 3D 2016 - English - English (United States)": {
+    "version": 604
+  },
+  "Avanade.Crm.Tasker.OutlookAddin": {
+    "version": "1.10.5.0"
+  },
+  "Avery Design & Print": {
+    "version": "4.0.1"
+  },
+  "AWBS (Automated Weight and Balance System)": {
+    "version": "10.2.011"
+  },
+  "AWBS F-22 Automated Form F (USAF)": {
+    "version": "3.5.6193.20483"
+  },
+  "AX88179_AX88178A Windows 8.x Drivers": {
+    "version": "3.0.0.0"
+  },
+  "Axway Desktop Validator": {
+    "version": "4.12.0.2.0"
+  },
+  "Bang & Olufsen Audio": {
+    "version": "9.0.69.53"
+  },
+  "BCWipe 3.0": {
+    "version": ""
+  },
+  "BestCrypt 9.0": {
+    "version": "9.03.8"
+  },
+  "BIG-IP Edge Client Components": {
+    "version": "70.2013.0523.0032"
+  },
+  "Blancco File Eraser": {
+    "version": 8.2
+  }
+}
