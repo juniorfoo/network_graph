@@ -15,7 +15,7 @@ domain = '3wiresys.com'
 with open('ports.json') as f:
     ports = json.load(f)
 
-with open('software_small.json') as f:
+with open('software_large.json') as f:
     softwares = json.load(f)
 
 # There will be a constant number of these
