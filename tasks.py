@@ -180,9 +180,16 @@ def router_generate(index: int, domain: str) -> None:
     hostname = 'core%d.%s' % (index, domain)
     ip = '10.0.0.%d' % index
     mac_address = faker.mac_address(),
+    mgmt_group = 'AFINC'
 
+    router_properties = {
+        'ip': ip,
+        'hostname': hostname,
+        'mac_address': mac_address,
+        'mgmt_group': mgmt_group
+    }
     # noinspection PyTypeChecker
-    router = Router.create_or_update({'ip': ip, 'hostname': hostname, 'mac_address': mac_address})[0]
+    router = Router.create_or_update(router_properties)[0]
     print('\t%s: Upserted' % router.hostname)
 
 
@@ -221,6 +228,7 @@ def switch_generate(index: int, domain: str) -> None:
     hostname = 'edge%d.%s' % (index, domain)
     vendor = faker.word(ext_word_list=switch_vendors)
     model = faker.word(ext_word_list=switch_models)
+    mgmt_group = 'AFINC'
 
     switch_properties = {
         'ip': '10.0.%d.1' % index,
@@ -228,7 +236,8 @@ def switch_generate(index: int, domain: str) -> None:
         'hostname': hostname,
         'vendor': vendor,
         'model': model,
-        'version': faker.word(ext_word_list=switch_versions)
+        'version': faker.word(ext_word_list=switch_versions),
+        'mgmt_group': mgmt_group
     }
     # noinspection PyTypeChecker
     switch = Switch.create_or_update(switch_properties)[0]
@@ -286,6 +295,7 @@ def __gen_device_base_data(ip: str, hostname: str) -> Dict:
         'linux_secure_connector': False,
         'linux_ssh': False,
         'mac_ssh': False,
+        'mgmt_group': 'CSCS',
         'netbios_domain': None,
         'netbios_hostname': None,
         'network_function': None,
@@ -311,7 +321,7 @@ def __gen_device_generic(interface: Interface, ip: str, hostname: str, func: str
         'function': func
     }
 
-    return __gen_device_base(interface, UnknownDevice, base_data, device_data)
+    return __gen_device_base(interface, UnknownDevice, device_data, base_data)
 
 
 def __gen_device_laptop(interface: Interface, ip: str, hostname: str, max_software: int) -> Device:
@@ -344,7 +354,7 @@ def __gen_device_laptop(interface: Interface, ip: str, hostname: str, max_softwa
         'win_secure_version': '10.7.01.0046 (x64)'
     }
 
-    laptop: EndUserDevice = __gen_device_base(interface, EndUserDevice, base_data, laptop_data)
+    laptop: EndUserDevice = __gen_device_base(interface, EndUserDevice, laptop_data, base_data)
 
     # Set a few open vulnerabilities
     if not len(laptop.vulnerabilities.all()):
@@ -380,10 +390,11 @@ def __gen_device_printer(interface: Interface, ip: str, hostname: str) -> Device
     printer_data = {
         'hw_model': printer_model,
         'hw_vendor': printer_vendor,
+        'mgmt_group': 'ACD',
         'network_function': 'Printer',
     }
 
-    return __gen_device_base(interface, PrinterDevice, base_data, printer_data)
+    return __gen_device_base(interface, PrinterDevice, printer_data, base_data)
 
 
 def __gen_device_voip(interface: Interface, ip: str, hostname: str) -> Device:
@@ -398,4 +409,4 @@ def __gen_device_voip(interface: Interface, ip: str, hostname: str) -> Device:
         'network_function': 'VoIP',
     }
 
-    return __gen_device_base(interface, VoIPDevice, base_data, voip_data)
+    return __gen_device_base(interface, VoIPDevice, voip_data, base_data)

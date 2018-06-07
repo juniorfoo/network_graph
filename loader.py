@@ -34,6 +34,23 @@ max_software = 20
 
 
 #
+# DUMP DATA
+# neo4j stop
+# neo4j-admin dump --to=backup.dump --database=graph.db
+# neo4j start
+
+#
+# LOAD DATA
+# neo4j stop
+# neo4j-admin load --from=backup.dump --database=graph.db --force
+# neo4j start
+
+
+#
+# Find all nodes managed by AFINC
+# MATCH (n) WHERE n.mgmt_group = "AFINC" RETURN n
+
+#
 # Find all switches that VoIP device hanging off of them
 # match (device:VoIPDevice)-[*]->(switch:Switch) return switch
 

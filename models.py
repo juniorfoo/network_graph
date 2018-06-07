@@ -44,6 +44,7 @@ class NetworkingDevice(StructuredNode, IpMixin):
     vendor = StringProperty()
     model = StringProperty()
     version = StringProperty()
+    mgmt_group = StringProperty()
 
     # Relationships
     # None
@@ -129,6 +130,7 @@ class Device(StructuredNode, IpMixin):
     linux_secure_connector = BooleanProperty()
     linux_ssh = BooleanProperty()
     mac_ssh = BooleanProperty()
+    mgmt_group = StringProperty()
     netbios_domain = StringProperty()
     netbios_hostname = StringProperty()
     network_function = StringProperty()
